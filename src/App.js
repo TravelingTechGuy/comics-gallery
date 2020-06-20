@@ -2,6 +2,7 @@ import React, { useState, useCallback, useEffect } from 'react';
 import Gallery from 'react-photo-gallery';
 import Carousel, { Modal, ModalGateway } from 'react-images';
 import photos from './photos.json';
+import './App.css';
 
 const photosFolder = '/photos';
 
@@ -25,7 +26,7 @@ function App() {
     }));
     setImages(images);
   }, []);
-  
+
   const openLightbox = useCallback((event, { photo, index }) => {
     setCurrentImage(index);
     setViewerIsOpen(true);
@@ -38,6 +39,7 @@ function App() {
 
   return (
     <div>
+      <h1>Hand Drawn Comics Covers</h1>
       <Gallery photos={images} onClick={openLightbox} />
       <ModalGateway>
         {viewerIsOpen ? (
