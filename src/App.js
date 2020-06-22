@@ -4,7 +4,7 @@ import Carousel, { Modal, ModalGateway } from 'react-images';
 import photos from './photos.json';
 import './App.css';
 
-const photosFolder = '/photos';
+const photosFolder = '/photos/covers';
 
 function App() {
   const [currentImage, setCurrentImage] = useState(0);
@@ -14,15 +14,9 @@ function App() {
   useEffect(() => {
     let images = photos.map(img => ({
       ...img,
-      src: `${photosFolder}/small/${img.src}`,
+      src: `${photosFolder}/${img.src}`,
       caption: img.title,
       alt: img.title,
-      source: {
-        regular: `${photosFolder}/small/${img.src}`,
-        thumbnail: `${photosFolder}/small/${img.src}`,
-        download: `${photosFolder}/big/${img.src}`,
-        fullscreen: `${photosFolder}/medium/${img.src}`,
-      }
     }));
     setImages(images);
   }, []);
