@@ -47,6 +47,37 @@
     "height": 3,
     "title": "Captain America by Michael Moonshaw"
   },
+
+  {
+    "src": "Captain America Gary Parkin.jpg",
+    "width": 2,
+    "height": 3,
+    "title": "Captain America by Gary Parkin"
+  },
+  {
+    "src": "Iron Man Gary Parkin.jpg",
+    "width": 2,
+    "height": 3,
+    "title": "Iron Man by Gary Parkin"
+  },
+  {
+    "src": "Thor Gary Parkin.jpg",
+    "width": 2,
+    "height": 3,
+    "title": "Thor by Gary Parkin"
+  },
+  {
+    "src": "Hulk Gary Parkin.jpg",
+    "width": 2,
+    "height": 3,
+    "title": "Hulk by Gary Parkin"
+  },
+  {
+    "src": "Black Widow Gary Parkin.jpg",
+    "width": 2,
+    "height": 3,
+    "title": "Black Widow by Gary Parkin"
+  },
   {
     "src": "Red Skull Greg Larocque.jpg",
     "width": 2,
@@ -100,6 +131,12 @@
     "width": 2,
     "height": 3,
     "title": "Wonder Woman by Vo"
+  },
+  {
+    "src": "Aquaman.jpg",
+    "width": 2,
+    "height": 3,
+    "title": "Aquaman"
   },
   {
     "src": "Darth Vader Ken Haeser.jpg",
