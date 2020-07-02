@@ -3,163 +3,203 @@
     "src": "Spider-Man Jack Quinncy.jpg",
     "width": 2,
     "height": 3,
-    "title": "Spider-Man by Jack Quinncy"
+    "title": "Spider-Man",
+    "artist": "Jack Quinncy"
   },
   {
     "src": "Venom Jack Quinncy.jpg",
     "width": 2,
     "height": 3,
-    "title": "Venom by Jack Quinncy"
+    "title": "Venom",
+    "artist": "Jack Quinncy"
   },
   {
     "src": "Amazing Spider-Man 301.jpg",
     "width": 2,
     "height": 3,
-    "title": "Amazing Spider-Man 301 by Todd McFarlane (for comparison)"
+    "title": "Amazing Spider-Man 301 (for comparison to Jack's covers)",
+    "artist": "Todd McFarlane"
   },
   {
     "src": "Iron Man Ken Haeser.jpg",
     "width": 2,
     "height": 3,
-    "title": "Iron Man by Ken Haeser"
+    "title": "Iron Man",
+    "artist": "Ken Haeser"
   },
   {
     "src": "Cyclops Ken Haeser.jpg",
     "width": 2,
     "height": 3,
-    "title": "Cyclops by Ken Haeser"
+    "title": "Cyclops",
+    "artist": "Ken Haeser"
   },
   {
     "src": "Sam Wilson Tood Nauck.jpg",
     "width": 2,
     "height": 3,
-    "title": "Sam Wilson by Tood Nauck"
+    "title": "Sam Wilson as Captain America",
+    "artist": "Todd Nauck"
   },
   {
     "src": "Thank You Note Todd Nauck.jpg",
     "width": 2,
     "height": 2,
-    "title": "Thank You Note by Todd Nauck"
+    "title": "Thank You Note",
+    "artist": "Todd Nauck"
   },
   {
     "src": "Captain America Michael Moonshaw.jpg",
     "width": 2,
     "height": 3,
-    "title": "Captain America by Michael Moonshaw"
+    "title": "Captain America",
+    "artist": "Michael Moonshaw"
   },
-
   {
     "src": "Captain America Gary Parkin.jpg",
     "width": 2,
     "height": 3,
-    "title": "Captain America by Gary Parkin"
+    "title": "Captain America",
+    "artist": "Gary Parkin"
   },
   {
     "src": "Iron Man Gary Parkin.jpg",
     "width": 2,
     "height": 3,
-    "title": "Iron Man by Gary Parkin"
+    "title": "Iron Man",
+    "artist": "Gary Parkin"
   },
   {
     "src": "Thor Gary Parkin.jpg",
     "width": 2,
     "height": 3,
-    "title": "Thor by Gary Parkin"
+    "title": "Thor",
+    "artist": "Gary Parkin"
   },
   {
     "src": "Hulk Gary Parkin.jpg",
     "width": 2,
     "height": 3,
-    "title": "Hulk by Gary Parkin"
+    "title": "Hulk",
+    "artist": "Gary Parkin"
   },
   {
     "src": "Black Widow Gary Parkin.jpg",
     "width": 2,
     "height": 3,
-    "title": "Black Widow by Gary Parkin"
+    "title": "Black Widow",
+    "artist": "Gary Parkin"
+  },
+  {
+    "src": "Spider-Woman Andres Cruz.jpg",
+    "width": 2,
+    "height": 3,
+    "title": "Spider-Woman",
+    "artist": "Andres Cruz"
+  },
+  {
+    "src": "Firestar Andres Cruz.jpg",
+    "width": 2,
+    "height": 3,
+    "title": "Firestar",
+    "artist": "Andres Cruz"
   },
   {
     "src": "Red Skull Greg Larocque.jpg",
     "width": 2,
     "height": 3,
-    "title": "Red Skull by Greg Larocque"
+    "title": "Red Skull",
+    "artist": "Greg Larocque"
   },
   {
     "src": "Morbious Vo.jpg",
     "width": 2,
     "height": 3,
-    "title": "Morbious by Vo"
+    "title": "Morbious",
+    "artist": "Vo"
   },
   {
     "src": "Batman and Catwoman Peter Foulkes.jpg",
     "width": 2,
     "height": 3,
-    "title": "Batman and Catwoman by Peter Foulkes"
+    "title": "Batman and Catwoman",
+    "artist": "Peter Foulkes"
   },
   {
     "src": "Catwoman Peter Foulkes.jpg",
     "width": 2,
     "height": 3,
-    "title": "Catwoman by Peter Foulkes"
+    "title": "Catwoman",
+    "artist": "Peter Foulkes"
   },
   {
     "src": "Justice League Jack Quinncy.jpg",
     "width": 2,
     "height": 3,
-    "title": "Justice League by Jack Quinncy"
+    "title": "Justice League",
+    "artist": "Jack Quinncy"
   },
   {
     "src": "Justice League 1rivergraphx.jpg",
     "width": 2,
     "height": 3,
-    "title": "Justice League by 1rivergraphx"
+    "title": "Justice League",
+    "artist":  "1rivergraphx"
   },
   {
     "src": "Supergirl Andres Cruz.jpg",
     "width": 2,
     "height": 3,
-    "title": "Supergirl by Andres Cruz"
+    "title": "Supergirl",
+    "artist": "Andres Cruz"
   },
   {
     "src": "Supergirl 2 Andres Cruz.jpg",
     "width": 2,
     "height": 3,
-    "title": "Supergirl by Andres Cruz"
+    "title": "Supergirl",
+    "artist": "Andres Cruz"
   },
   {
     "src": "Wonder Woman Vo.jpg",
     "width": 2,
     "height": 3,
-    "title": "Wonder Woman by Vo"
+    "title": "Wonder Woman",
+    "artist": "Vo"
   },
   {
     "src": "Aquaman.jpg",
     "width": 2,
     "height": 3,
-    "title": "Aquaman"
+    "title": "Aquaman",
+    "artist": "???"
   },
   {
     "src": "Darth Vader Ken Haeser.jpg",
     "width": 2,
     "height": 3,
-    "title": "Darth Vader by Ken Haeser"
+    "title": "Darth Vader",
+    "artist": "Ken Haeser"
   },
   {
     "src": "Darth Vader COA.jpg",
     "width": 3,
     "height": 2,
-    "title": "Darth Vader COA"
+    "title": "Darth Vader COA",
+    "artist": "Ken Haeser"
   },
   {
     "src": "Chewbacca Ken Haeser.jpg",
     "width": 2,
     "height": 3,
-    "title": "Chewbacca by Ken Haeser"
+    "title": "Chewbacca",
+    "artist": "Ken Haeser"
   },
   {
     "src": "Chewbacca COA.jpg",
     "width": 3,
     "height": 2,
-    "title": "Chewbacca COA"
+    "title": "Chewbacca COA",
+    "artist": "Ken Haeser"
   }
 ]
