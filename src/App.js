@@ -12,11 +12,12 @@ function App() {
   const [images, setImages] = useState(null);
 
   useEffect(() => {
+    const title = img => `${img.title} by ${img.artist}`;
     let images = photos.map(img => ({
       ...img,
       src: `${photosFolder}/${img.src}`,
-      caption: img.title,
-      alt: img.title,
+      caption: title(img),
+      alt: title(img),
     }));
     setImages(images);
   }, []);
