@@ -42,6 +42,14 @@
     "artist": "Todd Nauck"
   },
   {
+    "src": "Sam Wilson Video Tood Nauck.png",
+    "width": 1,
+    "height": 1,
+    "title": "Drawing Captain America",
+    "video": "https://www.youtube.com/watch?v=0oTj40TIq2M",
+    "artist": "Todd Nauck"
+  },
+  {
     "src": "Thank You Note Todd Nauck.jpg",
     "width": 2,
     "height": 2,
@@ -131,6 +139,20 @@
     "height": 3,
     "title": "Catwoman",
     "artist": "Peter Foulkes"
+  },
+  {
+    "src": "Catwoman and Catman by Noe Bribiesca.jpg",
+    "width": 2,
+    "height": 3,
+    "title": "Catwoman and Catman cheating on Batman",
+    "artist": "Noe Bribiesca (Nerbag)"
+  },
+  {
+    "src": "Batman and Catman by Noe Bribiesca.jpg",
+    "width": 2,
+    "height": 3,
+    "title": "Batman fighting Catman",
+    "artist": "Noe Bribiesca (Nerbag)"
   },
   {
     "src": "Justice League Jack Quinncy.jpg",
