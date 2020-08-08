@@ -45,32 +45,31 @@ function App() {
   return (
     <div>
       <h1>Hand Drawn Comics Covers</h1>
-          <Gallery photos={images} onClick={openLightbox} />
-          <ModalGateway>
-            {viewerIsOpen ?
-              <Modal onClose={closeLightbox}>
-                {video ?
-                  <ReactPlayer url={video} />
-                  :
-                  <Carousel
-                    currentIndex={currentImage}
-                    views={images}
-                    trackProps={{
-                      onViewChange: n => {
-                        if(images[n].video) {
-                          console.log('skipping', this, n);
-                          // setCurrentImage(currentImage + 1);
-                        }
-                      }
-                    }}
-                  />
-                }
-                </Modal>
+      <Gallery photos={images} onClick={openLightbox} />
+      <ModalGateway>
+        {viewerIsOpen ?
+          <Modal onClose={closeLightbox}>
+            {video ?
+              <ReactPlayer url={video} />
               :
-              null
+              <Carousel
+                currentIndex={currentImage}
+                views={images}
+                trackProps={{
+                  onViewChange: n => {
+                    if(images[n].video) {
+                      console.log('skipping', this, n);
+                      // setCurrentImage(currentImage + 1);
+                    }
+                  }
+                }}
+              />
             }
-          </ModalGateway>
-      }
+            </Modal>
+          :
+          null
+        }
+      </ModalGateway>
     </div>
   );
 }
