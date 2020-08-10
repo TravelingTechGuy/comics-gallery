@@ -7,9 +7,15 @@ import ReactPlayer from 'react-player/youtube';
 import photos from './photos.json';
 import './App.css';
 
-const photosFolder = '/photos/covers';
+const PHOTOS_FOLDER = '/photos';
+const COLLECTIONS = {
+  Covers: 'Covers',
+  OriginalArt: 'Original Art',
+  PublishedArt: 'Published Art'
+};
 
 function App() {
+  const [collection, setCollection] = useState('Covers');
   const [currentImage, setCurrentImage] = useState(0);
   const [viewerIsOpen, setViewerIsOpen] = useState(false);
   const [images, setImages] = useState([]);
@@ -17,14 +23,14 @@ function App() {
 
   useEffect(() => {
     const title = img => `${img.title} by ${img.artist}`;
-    let imgs = photos.map(img => ({
+    let imgs = photos[collection].map(img => ({
       ...img,
-      src: `${photosFolder}/${img.src}`,
+      src: `${PHOTOS_FOLDER}/${collection}/${img.src}`,
       caption: title(img),
       alt: title(img),
     }));
     setImages(imgs);
-  }, []);
+  }, [collection]);
 
   const openLightbox = useCallback((event, { photo, index }) => {
     setViewerIsOpen(true);
@@ -44,7 +50,14 @@ function App() {
 
   return (
     <div>
-      <h1>Hand Drawn Comics Covers</h1>
+      <h1>{COLLECTIONS[collection]} Collection</h1>
+      <div className="list-container">
+        <select className="select-css" defaultValue={collection} onChange={e => setCollection(e.target.value)}>
+        {
+          Object.keys(COLLECTIONS).map(c => <option value={c} key={c}>{COLLECTIONS[c]}</option>)
+        }
+        </select>
+      </div>
       <Gallery photos={images} onClick={openLightbox} />
       <ModalGateway>
         {viewerIsOpen ?
