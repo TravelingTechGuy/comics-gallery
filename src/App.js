@@ -1,7 +1,6 @@
 import React, { useState, useCallback, useEffect } from 'react';
 import Gallery from 'react-photo-gallery';
 import Carousel, { Modal, ModalGateway } from 'react-images';
-// import ReactPlayer from './ResponsiveYoutubePlayer';
 import ReactPlayer from 'react-player/youtube';
 
 import photos from './photos.json';
