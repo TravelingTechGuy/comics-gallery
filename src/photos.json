@@ -1,464 +1,476 @@
-{
-  "Covers": [
-    {
-      "src": "Spider-Man Jack Quinncy.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Spider-Man",
-      "artist": "Jack Quinncy"
-    },
-    {
-      "src": "Venom Jack Quinncy.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Venom",
-      "artist": "Jack Quinncy"
-    },
-    {
-      "src": "Amazing Spider-Man 301.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Amazing Spider-Man 301 (for comparison to Jack's covers)",
-      "artist": "Todd McFarlane"
-    },
-    {
-      "src": "Iron Man Ken Haeser.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Iron Man",
-      "artist": "Ken Haeser"
-    },
-    {
-      "src": "Cyclops Ken Haeser.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Cyclops",
-      "artist": "Ken Haeser"
-    },
-    {
-      "src": "Sam Wilson Tood Nauck.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Sam Wilson as Captain America",
-      "artist": "Todd Nauck"
-    },
-    {
-      "src": "Sam Wilson Video Tood Nauck.png",
-      "width": 1,
-      "height": 1,
-      "title": "Drawing Captain America",
-      "video": "https://www.youtube.com/watch?v=0oTj40TIq2M",
-      "artist": "Todd Nauck"
-    },
-    {
-      "src": "Thank You Note Todd Nauck.jpg",
-      "width": 2,
-      "height": 2,
-      "title": "Thank You Note",
-      "artist": "Todd Nauck"
-    },
-    {
-      "src": "Captain America Michael Moonshaw.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Captain America",
-      "artist": "Michael Moonshaw"
-    },
-    {
-      "src": "Captain America Gary Parkin.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Captain America",
-      "artist": "Gary Parkin"
-    },
-    {
-      "src": "Iron Man Gary Parkin.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Iron Man",
-      "artist": "Gary Parkin"
-    },
-    {
-      "src": "Thor Gary Parkin.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Thor",
-      "artist": "Gary Parkin"
-    },
-    {
-      "src": "Hulk Gary Parkin.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Hulk",
-      "artist": "Gary Parkin"
-    },
-    {
-      "src": "Black Widow Gary Parkin.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Black Widow",
-      "artist": "Gary Parkin"
-    },
-    {
-      "src": "Spider-Woman Andres Cruz.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Spider-Woman",
-      "artist": "Andres Cruz"
-    },
-    {
-      "src": "Firestar Andres Cruz.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Firestar",
-      "artist": "Andres Cruz"
-    },
-    {
-      "src": "Red Skull Greg Larocque.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Red Skull",
-      "artist": "Greg Larocque"
-    },
-    {
-      "src": "Morbious Vo.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Morbious",
-      "artist": "Vo"
-    },
-    {
-      "src": "Batman and Catwoman Peter Foulkes.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Batman and Catwoman",
-      "artist": "Peter Foulkes"
-    },
-    {
-      "src": "Catwoman Peter Foulkes.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Catwoman",
-      "artist": "Peter Foulkes"
-    },
-    {
-      "src": "Catwoman and Catman by Noe Bribiesca.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Catwoman and Catman cheating on Batman",
-      "artist": "Noe Bribiesca (Nebrag)"
-    },
-    {
-      "src": "Batman and Catman by Noe Bribiesca.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Batman fighting Catman",
-      "artist": "Noe Bribiesca (Nebrag)"
-    },
-    {
-      "src": "Justice League Jack Quinncy.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Justice League",
-      "artist": "Jack Quinncy"
-    },
-    {
-      "src": "Justice League 1rivergraphx.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Justice League",
-      "artist":  "1rivergraphx"
-    },
-    {
-      "src": "Supergirl Andres Cruz.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Supergirl",
-      "artist": "Andres Cruz"
-    },
-    {
-      "src": "Supergirl 2 Andres Cruz.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Supergirl",
-      "artist": "Andres Cruz"
-    },
-    {
-      "src": "Wonder Woman Vo.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Wonder Woman",
-      "artist": "Vo"
-    },
-    {
-      "src": "Aquaman.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Aquaman",
-      "artist": "???"
-    },
-    {
-      "src": "Darth Vader Ken Haeser.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Darth Vader",
-      "artist": "Ken Haeser"
-    },
-    {
-      "src": "Darth Vader COA.jpg",
-      "width": 3,
-      "height": 2,
-      "title": "Darth Vader COA",
-      "artist": "Ken Haeser"
-    },
-    {
-      "src": "Chewbacca Ken Haeser.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Chewbacca",
-      "artist": "Ken Haeser"
-    },
-    {
-      "src": "Chewbacca COA.jpg",
-      "width": 3,
-      "height": 2,
-      "title": "Chewbacca COA",
-      "artist": "Ken Haeser"
-    }
-  ],
-  "OriginalArt": [
-    {
-      "src": "Doc Samson by Jose Luis.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Doc Samson",
-      "artist": "P: Jose Luis I: Jeff de Los Santos"
-    },
-    {
-      "src": "Shang-Chi by Bien Flores.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Shang-Chi",
-      "artist": "Bien Flores"
-    },
-    {
-      "src": "Kitty Pryde by Todd Nauck.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Kitty Pryde",
-      "artist": "Todd Nauck (comission)"
-    },
-    {
-      "src": "Thank You Note Todd Nauck.jpg",
-      "width": 2,
-      "height": 2,
-      "title": "Thank You Note",
-      "artist": "Todd Nauck"
-    },
-    {
-      "src": "Kitty Pryde by Dalrymple.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Kitty Pryde",
-      "artist": "Dalrymple"
-    },
-    {
-      "src": "Firestar by Dalrymple.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Firestar",
-      "artist": "Dalrymple"
-    }
-  ],
-  "PublishedArt": [
-    {
-      "src": "Aquaman (2011) 017-11.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Aquaman (2011) Issue 17 Page 11",
-      "artist": "Paul Pelletier"
-    },
-    {
-      "src": "Aquaman (2011) 017-11 published.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Published: Aquaman (2011) Issue 17 Page 11",
-      "artist": "Paul Pelletier"
-    },
-    {
-      "src": "Aquaman (2011) 017-17.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Aquaman (2011) Issue 17 Page 17",
-      "artist": "Paul Pelletier"
-    },
-    {
-      "src": "Aquaman (2011) 017-17 published.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Published: Aquaman (2011) Issue 17 Page 17",
-      "artist": "Paul Pelletier"
-    },
-    {
-      "src": "New Mutants Vol 3 4-22.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "New Mutants Vol 3 Issue 4 Page 22",
-      "artist": "P: Diogenes Neves I: Craig Yeung"
-    },
-    {
-      "src": "New Mutants Vol 3 4-22 published.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Published: New Mutants Vol 3 Issue 4 Page 22",
-      "artist": "P: Diogenes Neves I: Craig Yeung"
-    },
-    {
-      "src": "DemonWars Eye for an Eye Issue 1 Page 3.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "R.A. Salvatore's DemonWars Eye for an Eye Issue 1 Page 3",
-      "artist": "Greg Tocchini"
-    },
-    {
-      "src": "DemonWars Eye for an Eye Issue 1 Page 3 published.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Published: R.A. Salvatore's DemonWars Eye for an Eye Issue 1 Page 3",
-      "artist": "Greg Tocchini"
-    },
-    {
-      "src": "DemonWars Eye for an Eye Issue 5 Page 18.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "R.A. Salvatore's DemonWars Eye for an Eye Issue 5 Page 18",
-      "artist": "Greg Tocchini"
-    },
-    {
-      "src": "DemonWars Eye for an Eye Issue 5 Page 18 published.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Published: R.A. Salvatore's DemonWars Eye for an Eye Issue 5 Page 18",
-      "artist": "Greg Tocchini"
-    },
-    {
-      "src": "Batman + Robin Eternal 18-3.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Batman & Robin Eternal Issue 18 Page 3",
-      "artist": "Scott Eaton"
-    },
-    {
-      "src": "Batman + Robin Eternal 18-3 published.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Published: Batman & Robin Eternal Issue 18 Page 3",
-      "artist": "Scott Eaton"
-    },
-    {
-      "src": "Batman + Robin Eternal 18-12.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Batman & Robin Eternal Issue 18 Page 12",
-      "artist": "Scott Eaton"
-    },
-    {
-      "src": "Batman + Robin Eternal 18-12 published.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Published: Batman & Robin Eternal Issue 18 Page 12",
-      "artist": "Scott Eaton"
-    },
-    {
-      "src": "Batman + Robin Eternal 18-13.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Batman & Robin Eternal Issue 18 Page 13",
-      "artist": "Scott Eaton"
-    },
-    {
-      "src": "Batman + Robin Eternal 18-13 published.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Published: Batman & Robin Eternal Issue 18 Page 13.jpg",
-      "artist": "Scott Eaton"
-    },
-    {
-      "src": "Batman + Robin Eternal 18-10.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Batman & Robin Eternal Issue 18 Page 10.jpg",
-      "artist": "Scott Eaton"
-    },
-    {
-      "src": "Batman + Robin Eternal 18-10 published.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Published: Batman & Robin Eternal Issue 18 Page 10.jpg",
-      "artist": "Scott Eaton"
-    },
-    {
-      "src": "Giant Titans 3-10.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Giant Titans Issue 3 Page 10",
-      "artist": "Scott Eaton"
-    },
-    {
-      "src": "Giant Titans 3-10 - inked by Caludette.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Inked: Giant Titans Issue 3 Page 10",
-      "artist": "P: Scott Eaton I: Claudette Eaton"
-    },
-    {
-      "src": "Giant Titans 3-10 published.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Published: Giant Titans Issue 3 Page 10",
-      "artist": "Scott Eaton"
-    },
-    {
-      "src": "Giant Titans 3 signed by Scott Eaton.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Giant Titans 3 Signed",
-      "artist": "Scott Eaton"
-    },
-    {
-      "src": "Science is Magic 2-1.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Science is Magic Issue 2 Page 1",
-      "artist": "Ben Dunn"
-    },
-    {
-      "src": "Science is Magic 2-2.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Science is Magic Issue 2 Page 2",
-      "artist": "Ben Dunn"
-    },
-    {
-      "src": "Science is Magic 2-3.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Science is Magic Issue 2 Page 3",
-      "artist": "Ben Dunn"
-    },
-    {
-      "src": "Science is Magic 3-9.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Science is Magic Issue 3 Page 9",
-      "artist": "Ben Dunn"
-    },
-    {
-      "src": "Science is Magic 3-10.jpg",
-      "width": 2,
-      "height": 3,
-      "title": "Science is Magic Issue 3 Page 10",
-      "artist": "Ben Dunn"
-    }
-  ]
-}
+[
+  {
+    "name": "Blank Covers",
+    "folder": "Covers",
+    "files": [
+      {
+        "src": "Spider-Man Jack Quinncy.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Spider-Man",
+        "artist": "Jack Quinncy"
+      },
+      {
+        "src": "Venom Jack Quinncy.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Venom",
+        "artist": "Jack Quinncy"
+      },
+      {
+        "src": "Amazing Spider-Man 301.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Amazing Spider-Man 301 (for comparison to Jack's covers)",
+        "artist": "Todd McFarlane"
+      },
+      {
+        "src": "Iron Man Ken Haeser.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Iron Man",
+        "artist": "Ken Haeser"
+      },
+      {
+        "src": "Cyclops Ken Haeser.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Cyclops",
+        "artist": "Ken Haeser"
+      },
+      {
+        "src": "Sam Wilson Tood Nauck.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Sam Wilson as Captain America",
+        "artist": "Todd Nauck"
+      },
+      {
+        "src": "Sam Wilson Video Tood Nauck.png",
+        "width": 1,
+        "height": 1,
+        "title": "Drawing Captain America",
+        "video": "https://www.youtube.com/watch?v=0oTj40TIq2M",
+        "artist": "Todd Nauck"
+      },
+      {
+        "src": "Thank You Note Todd Nauck.jpg",
+        "width": 2,
+        "height": 2,
+        "title": "Thank You Note",
+        "artist": "Todd Nauck"
+      },
+      {
+        "src": "Captain America Michael Moonshaw.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Captain America",
+        "artist": "Michael Moonshaw"
+      },
+      {
+        "src": "Captain America Gary Parkin.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Captain America",
+        "artist": "Gary Parkin"
+      },
+      {
+        "src": "Iron Man Gary Parkin.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Iron Man",
+        "artist": "Gary Parkin"
+      },
+      {
+        "src": "Thor Gary Parkin.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Thor",
+        "artist": "Gary Parkin"
+      },
+      {
+        "src": "Hulk Gary Parkin.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Hulk",
+        "artist": "Gary Parkin"
+      },
+      {
+        "src": "Black Widow Gary Parkin.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Black Widow",
+        "artist": "Gary Parkin"
+      },
+      {
+        "src": "Spider-Woman Andres Cruz.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Spider-Woman",
+        "artist": "Andres Cruz"
+      },
+      {
+        "src": "Firestar Andres Cruz.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Firestar",
+        "artist": "Andres Cruz"
+      },
+      {
+        "src": "Red Skull Greg Larocque.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Red Skull",
+        "artist": "Greg Larocque"
+      },
+      {
+        "src": "Morbious Vo.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Morbious",
+        "artist": "Vo"
+      },
+      {
+        "src": "Batman and Catwoman Peter Foulkes.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Batman and Catwoman",
+        "artist": "Peter Foulkes"
+      },
+      {
+        "src": "Catwoman Peter Foulkes.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Catwoman",
+        "artist": "Peter Foulkes"
+      },
+      {
+        "src": "Catwoman and Catman by Noe Bribiesca.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Catwoman and Catman cheating on Batman",
+        "artist": "Noe Bribiesca (Nebrag)"
+      },
+      {
+        "src": "Batman and Catman by Noe Bribiesca.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Batman fighting Catman",
+        "artist": "Noe Bribiesca (Nebrag)"
+      },
+      {
+        "src": "Justice League Jack Quinncy.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Justice League",
+        "artist": "Jack Quinncy"
+      },
+      {
+        "src": "Justice League 1rivergraphx.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Justice League",
+        "artist":  "1rivergraphx"
+      },
+      {
+        "src": "Supergirl Andres Cruz.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Supergirl",
+        "artist": "Andres Cruz"
+      },
+      {
+        "src": "Supergirl 2 Andres Cruz.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Supergirl",
+        "artist": "Andres Cruz"
+      },
+      {
+        "src": "Wonder Woman Vo.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Wonder Woman",
+        "artist": "Vo"
+      },
+      {
+        "src": "Aquaman.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Aquaman",
+        "artist": "???"
+      },
+      {
+        "src": "Darth Vader Ken Haeser.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Darth Vader",
+        "artist": "Ken Haeser"
+      },
+      {
+        "src": "Darth Vader COA.jpg",
+        "width": 3,
+        "height": 2,
+        "title": "Darth Vader COA",
+        "artist": "Ken Haeser"
+      },
+      {
+        "src": "Chewbacca Ken Haeser.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Chewbacca",
+        "artist": "Ken Haeser"
+      },
+      {
+        "src": "Chewbacca COA.jpg",
+        "width": 3,
+        "height": 2,
+        "title": "Chewbacca COA",
+        "artist": "Ken Haeser"
+      }
+    ] 
+  },
+  {
+    "name": "Original Art",
+    "folder": "OriginalArt",
+    "files":  [
+      {
+        "src": "Doc Samson by Jose Luis.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Doc Samson",
+        "artist": "P: Jose Luis I: Jeff de Los Santos"
+      },
+      {
+        "src": "Shang-Chi by Bien Flores.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Shang-Chi",
+        "artist": "Bien Flores"
+      },
+      {
+        "src": "Kitty Pryde by Todd Nauck.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Kitty Pryde",
+        "artist": "Todd Nauck (comission)"
+      },
+      {
+        "src": "Thank You Note Todd Nauck.jpg",
+        "width": 2,
+        "height": 2,
+        "title": "Thank You Note",
+        "artist": "Todd Nauck"
+      },
+      {
+        "src": "Kitty Pryde by Dalrymple.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Kitty Pryde",
+        "artist": "Dalrymple"
+      },
+      {
+        "src": "Firestar by Dalrymple.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Firestar",
+        "artist": "Dalrymple"
+      }
+    ]
+  },
+  {
+    "name": "Published Art",
+    "folder": "PublishedArt",
+    "files":   [
+      {
+        "src": "Aquaman (2011) 017-11.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Aquaman (2011) Issue 17 Page 11",
+        "artist": "Paul Pelletier"
+      },
+      {
+        "src": "Aquaman (2011) 017-11 published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: Aquaman (2011) Issue 17 Page 11",
+        "artist": "Paul Pelletier"
+      },
+      {
+        "src": "Aquaman (2011) 017-17.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Aquaman (2011) Issue 17 Page 17",
+        "artist": "Paul Pelletier"
+      },
+      {
+        "src": "Aquaman (2011) 017-17 published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: Aquaman (2011) Issue 17 Page 17",
+        "artist": "Paul Pelletier"
+      },
+      {
+        "src": "New Mutants Vol 3 4-22.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "New Mutants Vol 3 Issue 4 Page 22",
+        "artist": "P: Diogenes Neves I: Craig Yeung"
+      },
+      {
+        "src": "New Mutants Vol 3 4-22 published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: New Mutants Vol 3 Issue 4 Page 22",
+        "artist": "P: Diogenes Neves I: Craig Yeung"
+      },
+      {
+        "src": "DemonWars Eye for an Eye Issue 1 Page 3.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "R.A. Salvatore's DemonWars Eye for an Eye Issue 1 Page 3",
+        "artist": "Greg Tocchini"
+      },
+      {
+        "src": "DemonWars Eye for an Eye Issue 1 Page 3 published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: R.A. Salvatore's DemonWars Eye for an Eye Issue 1 Page 3",
+        "artist": "Greg Tocchini"
+      },
+      {
+        "src": "DemonWars Eye for an Eye Issue 5 Page 18.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "R.A. Salvatore's DemonWars Eye for an Eye Issue 5 Page 18",
+        "artist": "Greg Tocchini"
+      },
+      {
+        "src": "DemonWars Eye for an Eye Issue 5 Page 18 published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: R.A. Salvatore's DemonWars Eye for an Eye Issue 5 Page 18",
+        "artist": "Greg Tocchini"
+      },
+      {
+        "src": "Batman + Robin Eternal 18-3.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Batman & Robin Eternal Issue 18 Page 3",
+        "artist": "Scott Eaton"
+      },
+      {
+        "src": "Batman + Robin Eternal 18-3 published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: Batman & Robin Eternal Issue 18 Page 3",
+        "artist": "Scott Eaton"
+      },
+      {
+        "src": "Batman + Robin Eternal 18-12.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Batman & Robin Eternal Issue 18 Page 12",
+        "artist": "Scott Eaton"
+      },
+      {
+        "src": "Batman + Robin Eternal 18-12 published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: Batman & Robin Eternal Issue 18 Page 12",
+        "artist": "Scott Eaton"
+      },
+      {
+        "src": "Batman + Robin Eternal 18-13.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Batman & Robin Eternal Issue 18 Page 13",
+        "artist": "Scott Eaton"
+      },
+      {
+        "src": "Batman + Robin Eternal 18-13 published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: Batman & Robin Eternal Issue 18 Page 13.jpg",
+        "artist": "Scott Eaton"
+      },
+      {
+        "src": "Batman + Robin Eternal 18-10.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Batman & Robin Eternal Issue 18 Page 10.jpg",
+        "artist": "Scott Eaton"
+      },
+      {
+        "src": "Batman + Robin Eternal 18-10 published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: Batman & Robin Eternal Issue 18 Page 10.jpg",
+        "artist": "Scott Eaton"
+      },
+      {
+        "src": "Giant Titans 3-10.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Giant Titans Issue 3 Page 10",
+        "artist": "Scott Eaton"
+      },
+      {
+        "src": "Giant Titans 3-10 - inked by Caludette.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Inked: Giant Titans Issue 3 Page 10",
+        "artist": "P: Scott Eaton I: Claudette Eaton"
+      },
+      {
+        "src": "Giant Titans 3-10 published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: Giant Titans Issue 3 Page 10",
+        "artist": "Scott Eaton"
+      },
+      {
+        "src": "Giant Titans 3 signed by Scott Eaton.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Giant Titans 3 Signed",
+        "artist": "Scott Eaton"
+      },
+      {
+        "src": "Science is Magic 2-1.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Science is Magic Issue 2 Page 1",
+        "artist": "Ben Dunn"
+      },
+      {
+        "src": "Science is Magic 2-2.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Science is Magic Issue 2 Page 2",
+        "artist": "Ben Dunn"
+      },
+      {
+        "src": "Science is Magic 2-3.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Science is Magic Issue 2 Page 3",
+        "artist": "Ben Dunn"
+      },
+      {
+        "src": "Science is Magic 3-9.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Science is Magic Issue 3 Page 9",
+        "artist": "Ben Dunn"
+      },
+      {
+        "src": "Science is Magic 3-10.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Science is Magic Issue 3 Page 10",
+        "artist": "Ben Dunn"
+      }
+    ]
+  }
+]

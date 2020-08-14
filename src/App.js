@@ -7,14 +7,9 @@ import photos from './photos.json';
 import './App.css';
 
 const PHOTOS_FOLDER = '/photos';
-const COLLECTIONS = {
-  Covers: 'Covers',
-  OriginalArt: 'Original Art',
-  PublishedArt: 'Published Art'
-};
 
 function App() {
-  const [collection, setCollection] = useState('Covers');
+  const [collectionIndex, setCollectionIndex] = useState(0);
   const [currentImage, setCurrentImage] = useState(0);
   const [viewerIsOpen, setViewerIsOpen] = useState(false);
   const [images, setImages] = useState([]);
@@ -22,14 +17,14 @@ function App() {
 
   useEffect(() => {
     const title = img => `${img.title} by ${img.artist}`;
-    let imgs = photos[collection].map(img => ({
+    let imgs = photos[collectionIndex].files.map(img => ({
       ...img,
-      src: `${PHOTOS_FOLDER}/${collection}/${img.src}`,
+      src: `${PHOTOS_FOLDER}/${photos[collectionIndex].folder}/${img.src}`,
       caption: title(img),
       alt: title(img),
     }));
     setImages(imgs);
-  }, [collection]);
+  }, [collectionIndex]);
 
   const openLightbox = useCallback((event, { photo, index }) => {
     setViewerIsOpen(true);
@@ -48,40 +43,47 @@ function App() {
   };
 
   return (
-    <div>
-      <h1>{COLLECTIONS[collection]} Collection</h1>
-      <div className="list-container">
-        <select className="select-css" defaultValue={collection} onChange={e => setCollection(e.target.value)}>
-        {
-          Object.keys(COLLECTIONS).map(c => <option value={c} key={c}>{COLLECTIONS[c]}</option>)
-        }
-        </select>
-      </div>
-      <Gallery photos={images} onClick={openLightbox} />
-      <ModalGateway>
-        {viewerIsOpen ?
-          <Modal onClose={closeLightbox}>
-            {video ?
-              <ReactPlayer url={video} />
-              :
-              <Carousel
-                currentIndex={currentImage}
-                views={images}
-                trackProps={{
-                  onViewChange: n => {
-                    if(images[n].video) {
-                      console.log('skipping', this, n);
-                      // setCurrentImage(currentImage + 1);
+    <div className="App">
+      <header className="App-header">
+        <img src="favicon/favicon.ico" alt="icon" style={{float: "inline-start"}} />&nbsp;{photos[collectionIndex].name} Collection
+      </header>
+      <main className="App-body">
+        <div className="list-container">
+          <select className="select-css" defaultValue={collectionIndex} onChange={e => setCollectionIndex(e.target.value)}>
+          {
+            photos.map((p, i) => <option value={i} key={p.folder}>{p.name}</option>)
+          }
+          </select>
+        </div>
+        <Gallery photos={images} onClick={openLightbox} />
+        <ModalGateway>
+          {viewerIsOpen ?
+            <Modal onClose={closeLightbox}>
+              {video ?
+                <ReactPlayer url={video} />
+                :
+                <Carousel
+                  currentIndex={currentImage}
+                  views={images}
+                  trackProps={{
+                    onViewChange: n => {
+                      if(images[n].video) {
+                        console.log('skipping', this, n);
+                        // setCurrentImage(currentImage + 1);
+                      }
                     }
-                  }
-                }}
-              />
-            }
-            </Modal>
-          :
-          null
-        }
-      </ModalGateway>
+                  }}
+                />
+              }
+              </Modal>
+            :
+            null
+          }
+        </ModalGateway>
+      </main>
+      <footer className="App-footer">
+        MyGallery&trade; All rights &copy; {(new Date()).getFullYear()}
+      </footer>
     </div>
   );
 }
