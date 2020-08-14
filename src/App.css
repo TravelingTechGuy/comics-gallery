@@ -17,6 +17,8 @@
 
 .App-header > img {
 	vertical-align: middle;
+	min-width: 80px;
+	min-height: 80px;
 }
 
 .App-body {

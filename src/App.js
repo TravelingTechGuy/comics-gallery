@@ -45,7 +45,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="favicon/favicon.ico" alt="icon" style={{float: "inline-start"}} />&nbsp;{photos[collectionIndex].name} Collection
+        <img src="favicon/favicon.ico" alt="icon" style={{float: "inline-start"}} />&nbsp;
+        {photos[collectionIndex].name} Collection
       </header>
       <main className="App-body">
         <div className="list-container">
