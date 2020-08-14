@@ -1,5 +1,31 @@
-h1 {
-  text-align: center;
+.App {
+	min-height: 100%;
+	display: grid;
+	grid-template-rows: auto 1fr auto;
+	background-color: #282c34;
+}
+
+.App-header, .App-footer {
+	background-color: #282c34;
+	color: white;
+  min-height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-header > img {
+	vertical-align: middle;
+}
+
+.App-body {
+	padding: 10px;
+	min-height: 80vh;
+}
+
+* {
+	box-sizing: border-box;
 }
 
 .list-container {
