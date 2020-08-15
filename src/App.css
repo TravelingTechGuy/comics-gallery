@@ -2,12 +2,25 @@
 	min-height: 100%;
 	display: grid;
 	grid-template-rows: auto 1fr auto;
+}
+
+.darkTheme {
 	background-color: #282c34;
+	color: white;
+}
+
+.lightTheme {
+	background-color: white;
+	color: #282c34;
+}
+
+.themeButton {
+	top: 0;
+	width: 40px;
+	text-align: center;
 }
 
 .App-header, .App-footer {
-	background-color: #282c34;
-	color: white;
   min-height: 10vh;
   display: flex;
   align-items: center;

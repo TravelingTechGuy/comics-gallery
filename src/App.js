@@ -2,6 +2,8 @@ import React, { useState, useCallback, useEffect } from 'react';
 import Gallery from 'react-photo-gallery';
 import Carousel, { Modal, ModalGateway } from 'react-images';
 import ReactPlayer from 'react-player/youtube';
+import Switch from 'rc-switch';
+import {getBrowserTheme} from './Theme';
 
 import photos from './photos.json';
 import './App.css';
@@ -9,6 +11,7 @@ import './App.css';
 const PHOTOS_FOLDER = '/photos';
 
 function App() {
+  const [theme, setTheme] = useState(getBrowserTheme());
   const [collectionIndex, setCollectionIndex] = useState(0);
   const [currentImage, setCurrentImage] = useState(0);
   const [viewerIsOpen, setViewerIsOpen] = useState(false);
@@ -43,7 +46,13 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div className={'App ' + theme}>
+      <Switch
+        onChange={() => setTheme(theme === 'darkTheme' ? 'lightTheme' : 'darkTheme')}
+        checkedChildren="🌞"
+        unCheckedChildren="🌙"
+        className="themeButton"
+      />
       <header className="App-header">
         <img src="favicon/favicon.ico" alt="icon" style={{float: "inline-start"}} />&nbsp;
         {photos[collectionIndex].name} Collection
