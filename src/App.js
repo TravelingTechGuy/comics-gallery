@@ -2,8 +2,7 @@ import React, { useState, useCallback, useEffect } from 'react';
 import Gallery from 'react-photo-gallery';
 import Carousel, { Modal, ModalGateway } from 'react-images';
 import ReactPlayer from 'react-player/youtube';
-import Switch from 'rc-switch';
-import {getBrowserTheme} from './Theme';
+import {ThemeSwitch, getBrowserTheme} from './Theme';
 
 import photos from './photos.json';
 import './App.css';
@@ -47,10 +46,9 @@ function App() {
 
   return (
     <div className={`App ${theme}Theme`}>
-      <Switch
+      <ThemeSwitch
         onChange={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
-        checkedChildren="🌞"
-        unCheckedChildren="🌙"
+        defaultChecked={theme}
         className="themeButton"
       />
       <header className="App-header">
