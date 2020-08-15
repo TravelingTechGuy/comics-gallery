@@ -46,9 +46,9 @@ function App() {
   };
 
   return (
-    <div className={'App ' + theme}>
+    <div className={`App ${theme}Theme`}>
       <Switch
-        onChange={() => setTheme(theme === 'darkTheme' ? 'lightTheme' : 'darkTheme')}
+        onChange={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
         checkedChildren="🌞"
         unCheckedChildren="🌙"
         className="themeButton"

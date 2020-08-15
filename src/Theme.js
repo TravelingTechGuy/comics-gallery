@@ -1,7 +1,4 @@
-const getMql = () =>
-  window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)')
-
 export const getBrowserTheme = () => {
-  const mql = getMql()
-  return mql && mql.matches ? 'darkTheme' : 'lightTheme'
-}
+  const mql = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)');
+  return mql && mql.matches ? 'dark' : 'light';
+};
