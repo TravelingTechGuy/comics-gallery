@@ -14,11 +14,6 @@
 	color: #282c34;
 }
 
-.themeButton {
-	top: 0;
-	margin: 5px;
-}
-
 .App-header, .App-footer {
   min-height: 10vh;
   display: flex;

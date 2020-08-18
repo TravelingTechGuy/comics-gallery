@@ -49,7 +49,6 @@ function App() {
       <ThemeSwitch
         onChange={() => setIsDarkTheme(!isDarkTheme)}
         defaultChecked={isDarkTheme}
-        className="themeButton"
       />
       <header className="App-header">
         <img src="favicon/favicon.ico" alt="icon" style={{float: "inline-start"}} />&nbsp;
