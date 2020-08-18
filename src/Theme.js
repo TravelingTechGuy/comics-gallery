@@ -4,14 +4,14 @@ import 'rc-switch/assets/index.css';
 
 export const getBrowserTheme = () => {
   const mql = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)');
-  return mql && mql.matches ? 'dark' : 'light';
+  return mql && mql.matches;
 };
 
-export const ThemeSwitch = ({onChange, defaultValue}) => 
+export const ThemeSwitch = ({onChange, defaultChecked}) => 
   <Switch
-    defaultChecked={defaultValue}
+    defaultChecked={defaultChecked}
     onChange={onChange}
-    checkedChildren="🌞"
-    unCheckedChildren="🌙"
+    checkedChildren="🌙"
+    unCheckedChildren="🌞"
     className="themeButton"
   />;

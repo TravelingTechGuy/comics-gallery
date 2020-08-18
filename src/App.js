@@ -10,7 +10,7 @@ import './App.css';
 const PHOTOS_FOLDER = '/photos';
 
 function App() {
-  const [theme, setTheme] = useState(getBrowserTheme());
+  const [isDarkTheme, setIsDarkTheme] = useState(getBrowserTheme());
   const [collectionIndex, setCollectionIndex] = useState(0);
   const [currentImage, setCurrentImage] = useState(0);
   const [viewerIsOpen, setViewerIsOpen] = useState(false);
@@ -45,10 +45,10 @@ function App() {
   };
 
   return (
-    <div className={`App ${theme}Theme`}>
+    <div className={`App ${isDarkTheme ? 'dark' : 'light'}Theme`}>
       <ThemeSwitch
-        onChange={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
-        defaultChecked={theme}
+        onChange={() => setIsDarkTheme(!isDarkTheme)}
+        defaultChecked={isDarkTheme}
         className="themeButton"
       />
       <header className="App-header">
@@ -63,7 +63,7 @@ function App() {
           }
           </select>
         </div>
-        <Gallery photos={images} onClick={openLightbox} />
+        <Gallery photos={images} margin={8} onClick={openLightbox} />
         <ModalGateway>
           {viewerIsOpen ?
             <Modal onClose={closeLightbox}>
