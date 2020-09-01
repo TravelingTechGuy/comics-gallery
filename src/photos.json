@@ -270,18 +270,32 @@
         "artist": "Todd Nauck"
       },
       {
+        "src": "Jean Grey by Dalrymple.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Jean Grey",
+        "artist": "Scott Dalrymple"
+      },
+      {
         "src": "Kitty Pryde by Dalrymple.jpg",
         "width": 2,
         "height": 3,
         "title": "Kitty Pryde",
-        "artist": "Dalrymple"
+        "artist": "Scott Dalrymple"
       },
       {
         "src": "Firestar by Dalrymple.jpg",
         "width": 2,
         "height": 3,
         "title": "Firestar",
-        "artist": "Dalrymple"
+        "artist": "Scott Dalrymple"
+      },
+      {
+        "src": "Firestar 2 by Dalrymple.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Firestar",
+        "artist": "Scott Dalrymple"
       }
     ]
   },
@@ -289,6 +303,20 @@
     "name": "Published Art",
     "folder": "PublishedArt",
     "files":   [
+      {
+        "src": "Aquaman (2011) 017-09.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Aquaman (2011) Issue 17 Page 9",
+        "artist": "Paul Pelletier"
+      },
+      {
+        "src": "Aquaman (2011) 017-09 published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: Aquaman (2011) Issue 17 Page 9",
+        "artist": "Paul Pelletier"
+      },
       {
         "src": "Aquaman (2011) 017-11.jpg",
         "width": 2,
