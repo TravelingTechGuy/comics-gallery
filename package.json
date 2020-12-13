@@ -2,15 +2,14 @@
   "name": "comics-gallery",
   "version": "0.1.0",
   "private": true,
-  "devDependencies": {},
   "dependencies": {
-    "rc-switch": "^3.2.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "rc-switch": "^3.2.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "react-images": "^1.1.7",
     "react-photo-gallery": "^8.0.0",
-    "react-player": "^2.5.0",
-    "react-scripts": "3.4.1"
+    "react-player": "^2.7.0",
+    "react-scripts": "4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
