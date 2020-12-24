@@ -159,6 +159,20 @@
         "artist": "Noe Bribiesca (Nebrag)"
       },
       {
+        "src": "Catwoman Jack Quinncy.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Catwoman",
+        "artist": "Jack Quinncy"
+      },
+      {
+        "src": "Batgirl Quinncy.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Batgirl and Joker",
+        "artist":  "Jack Quinncy"
+      },
+      {
         "src": "Justice League Jack Quinncy.jpg",
         "width": 2,
         "height": 3,
@@ -318,6 +332,20 @@
     "folder": "PublishedArt",
     "files":   [
       {
+        "src": "Grendel - Devil's Odyssey 3-12.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Grendel - Devil's Odyssey Issue 3 Page 12 Pencils + Inks",
+        "artist": "Matt Wagner"
+      },
+      {
+        "src": "Grendel - Devil's Odyssey 3-12 - Published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Grendel - Devil's Odyssey Issue 3 Page 12 Published",
+        "artist": "Matt Wagner"
+      },
+      {
         "src": "Aquaman (2011) 017-09.jpg",
         "width": 2,
         "height": 3,
@@ -372,6 +400,27 @@
         "height": 3,
         "title": "Published: New Mutants Vol 3 Issue 4 Page 22",
         "artist": "P: Diogenes Neves I: Craig Yeung"
+      },
+      {
+        "src": "New Guardians 24-17 - Pencils.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "New Guardians Issue 24 Page 17 Pencils",
+        "artist": "Brad Walker"
+      },
+      {
+        "src": "New Guardians 24-17 - Inks.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "New Guardians Issue 24 Page 17 Inks",
+        "artist": "Brad Walker"
+      },
+      {
+        "src": "New Guardians 24-17 - Published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "New Guardians Issue 24 Page 17 Published",
+        "artist": "Brad Walker"
       },
       {
         "src": "DemonWars Eye for an Eye Issue 1 Page 3.jpg",
