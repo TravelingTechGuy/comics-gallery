@@ -18,13 +18,16 @@ function App() {
   const [video, setVideo] = useState(null);
 
   useEffect(() => {
-    const title = img => `${img.title} by ${img.artist}`;
-    let imgs = photos[collectionIndex].files.map(img => ({
-      ...img,
-      src: `${PHOTOS_FOLDER}/${photos[collectionIndex].folder}/${img.src}`,
-      caption: title(img),
-      alt: title(img),
-    }));
+    let imgs = photos[collectionIndex].files.map(img => {
+      const title = `${img.title} by ${img.artist}`;
+      return {
+        ...img,
+        src: `${PHOTOS_FOLDER}/${photos[collectionIndex].folder}/${img.src}`,
+        caption: title,
+        alt: title,
+        title: title
+      };
+    });
     setImages(imgs);
   }, [collectionIndex]);
 
