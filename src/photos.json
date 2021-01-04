@@ -493,13 +493,6 @@
     "folder": "OriginalArt",
     "files":  [
       {
-        "src": "Doc Samson by Jose Luis.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Doc Samson",
-        "artist": "P: Jose Luis I: Jeff de Los Santos"
-      },
-      {
         "src": "Shang-Chi by Bien Flores.jpg",
         "width": 2,
         "height": 3,
@@ -507,11 +500,39 @@
         "artist": "Bien Flores"
       },
       {
+        "src": "Doc Samson by Jose Luis.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Doc Samson",
+        "artist": "P: Jose Luis I: Jeff de Los Santos"
+      },
+      {
         "src": "Deadpool by Jim Jimenez.jpg",
         "width": 2,
         "height": 3,
         "title": "Deadpool",
         "artist": "Jim Jimenez"
+      },
+      {
+        "src": "Gambit - Jason Patterson.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Gambit",
+        "artist": "Jason Patterson"
+      },
+      {
+        "src": "Weapon X - Gerson Borges.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Weapon X (Wolverine)",
+        "artist": "Gerson Borges"
+      },
+      {
+        "src": "Green Lanterns - Gerson Borges.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Green Lanterns (Jon Stewart & Guy Gardner)",
+        "artist": "Gerson Borges"
       },
       {
         "src": "Captain America vs. Iron Man.jpg",
