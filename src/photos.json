@@ -18,6 +18,55 @@
         "artist": "Matt Wagner"
       },
       {
+        "src": "The Green Lantern (2018) 008-004.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "The Green Lantern Issue 8 Page 4 Pencils + Inks",
+        "artist": "Liam Sharp"
+      },
+      {
+        "src": "The Green Lantern (2018) 008-004 - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: The Green Lantern Issue 8 Page 4",
+        "artist": "Liam Sharp"
+      },
+      {
+        "src": "The Green Lantern (2018) 008-005.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "The Green Lantern Issue 8 Page 5 Pencils + Inks",
+        "artist": "Liam Sharp"
+      },
+      {
+        "src": "The Green Lantern (2018) 008-005 - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: The Green Lantern Issue 8 Page 5",
+        "artist": "Liam Sharp"
+      },
+      {
+        "src": "New Guardians 24-17 - Pencils.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "New Guardians Issue 24 Page 17 Pencils",
+        "artist": "Brad Walker"
+      },
+      {
+        "src": "New Guardians 24-17 - Inks.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "New Guardians Issue 24 Page 17 Inks",
+        "artist": "Brad Walker"
+      },
+      {
+        "src": "New Guardians 24-17 - Published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: New Guardians Issue 24 Page 17",
+        "artist": "Brad Walker"
+      },
+      {
         "src": "Aquaman (2011) 017-09.jpg",
         "width": 2,
         "height": 3,
@@ -60,67 +109,25 @@
         "artist": "Paul Pelletier"
       },
       {
-        "src": "New Mutants Vol 3 4-22.jpg",
+        "src": "Batman - Gotham Knights 017-004.jpg",
         "width": 2,
         "height": 3,
-        "title": "New Mutants Vol 3 Issue 4 Page 22",
-        "artist": "P: Diogenes Neves I: Craig Yeung"
+        "title": "Batman - Gotham Knights Issue 17 Page 4 Pencils + Inks",
+        "artist": "Roger Robinson"
       },
       {
-        "src": "New Mutants Vol 3 4-22 published.jpg",
+        "src": "Batman - Gotham Knights 017-004 - published.jpg",
         "width": 2,
         "height": 3,
-        "title": "Published: New Mutants Vol 3 Issue 4 Page 22",
-        "artist": "P: Diogenes Neves I: Craig Yeung"
+        "title": "Published Batman - Gotham Knights Issue 17 Page 4",
+        "artist": "Roger Robinson"
       },
       {
-        "src": "New Guardians 24-17 - Pencils.jpg",
+        "src": "Batman - Gotham Knights 017-004 - sketch.jpg",
         "width": 2,
         "height": 3,
-        "title": "New Guardians Issue 24 Page 17 Pencils",
-        "artist": "Brad Walker"
-      },
-      {
-        "src": "New Guardians 24-17 - Inks.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "New Guardians Issue 24 Page 17 Inks",
-        "artist": "Brad Walker"
-      },
-      {
-        "src": "New Guardians 24-17 - Published.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Published: New Guardians Issue 24 Page 17",
-        "artist": "Brad Walker"
-      },
-      {
-        "src": "DemonWars Eye for an Eye Issue 1 Page 3.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "R.A. Salvatore's DemonWars Eye for an Eye Issue 1 Page 3",
-        "artist": "Greg Tocchini"
-      },
-      {
-        "src": "DemonWars Eye for an Eye Issue 1 Page 3 published.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Published: R.A. Salvatore's DemonWars Eye for an Eye Issue 1 Page 3",
-        "artist": "Greg Tocchini"
-      },
-      {
-        "src": "DemonWars Eye for an Eye Issue 5 Page 18.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "R.A. Salvatore's DemonWars Eye for an Eye Issue 5 Page 18",
-        "artist": "Greg Tocchini"
-      },
-      {
-        "src": "DemonWars Eye for an Eye Issue 5 Page 18 published.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Published: R.A. Salvatore's DemonWars Eye for an Eye Issue 5 Page 18",
-        "artist": "Greg Tocchini"
+        "title": "Batman - Gotham Knights Issue 17 Page 4 Penciled sketch on back of board",
+        "artist": "Roger Robinson"
       },
       {
         "src": "Batman + Robin Eternal 18-3.jpg",
@@ -205,6 +212,48 @@
         "height": 3,
         "title": "Giant Titans 3 Signed",
         "artist": "Scott Eaton"
+      },
+      {
+        "src": "New Mutants Vol 3 4-22.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "New Mutants Vol 3 Issue 4 Page 22",
+        "artist": "P: Diogenes Neves I: Craig Yeung"
+      },
+      {
+        "src": "New Mutants Vol 3 4-22 published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: New Mutants Vol 3 Issue 4 Page 22",
+        "artist": "P: Diogenes Neves I: Craig Yeung"
+      },
+      {
+        "src": "DemonWars Eye for an Eye Issue 1 Page 3.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "R.A. Salvatore's DemonWars Eye for an Eye Issue 1 Page 3",
+        "artist": "Greg Tocchini"
+      },
+      {
+        "src": "DemonWars Eye for an Eye Issue 1 Page 3 published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: R.A. Salvatore's DemonWars Eye for an Eye Issue 1 Page 3",
+        "artist": "Greg Tocchini"
+      },
+      {
+        "src": "DemonWars Eye for an Eye Issue 5 Page 18.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "R.A. Salvatore's DemonWars Eye for an Eye Issue 5 Page 18",
+        "artist": "Greg Tocchini"
+      },
+      {
+        "src": "DemonWars Eye for an Eye Issue 5 Page 18 published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: R.A. Salvatore's DemonWars Eye for an Eye Issue 5 Page 18",
+        "artist": "Greg Tocchini"
       },
       {
         "src": "Science is Magic 2-1.jpg",
@@ -493,6 +542,20 @@
     "folder": "OriginalArt",
     "files":  [
       {
+        "src": "Batcave by Garrie Gastonny.jpg",
+        "width": 4,
+        "height": 2,
+        "title": "Batman Family in Batcave",
+        "artist": "Garrie Gastonny"
+      },
+      {
+        "src": "Batman by Kevin Maguire.jpg",
+        "width": 3,
+        "height": 3,
+        "title": "Batman Family in Batcave",
+        "artist": "Garrie Gastonny"
+      },
+      {
         "src": "Shang-Chi by Bien Flores.jpg",
         "width": 2,
         "height": 3,
@@ -589,6 +652,27 @@
         "height": 3,
         "title": "Spider-Man Print (signed)",
         "artist": "Chris Sprouce"
+      },
+      {
+        "src": "Batman Family by Greg Woronchak.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Batman Family",
+        "artist": "Greg Woronchak"
+      },
+      {
+        "src": "Deadpool by Jones Alves.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Deadpool",
+        "artist": "Jones Alves"
+      },
+      {
+        "src": "Image founders signed.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Image founders signed",
+        "artist": "McFarlane, Larsen, Silvestri, Valentino, Kirkman, Stephenson"
       }
     ]
   }
