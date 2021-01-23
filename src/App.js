@@ -2,6 +2,7 @@ import React, { useState, useCallback, useEffect } from 'react';
 import Gallery from 'react-photo-gallery';
 import Carousel, { Modal, ModalGateway } from 'react-images';
 import ReactPlayer from 'react-player/youtube';
+import ForkMeOnGithub from 'fork-me-on-github';
 import {ThemeSwitch, getBrowserTheme} from './Theme';
 
 import photos from './photos.json';
@@ -52,6 +53,12 @@ function App() {
       <ThemeSwitch
         onChange={() => setIsDarkTheme(!isDarkTheme)}
         defaultChecked={isDarkTheme}
+      />
+      <ForkMeOnGithub
+        repo="https://github.com/TravelingTechGuy/comics-gallery"
+        side="right"
+        colorBackground={isDarkTheme ? 'white' : '#282c34'}
+        colorOctocat={isDarkTheme ? '#282c34' : 'white'}
       />
       <header className="App-header">
         <img src="favicon/favicon.ico" alt="icon" style={{float: "inline-start"}} />&nbsp;
