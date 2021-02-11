@@ -4,6 +4,48 @@
     "folder": "PublishedArt",
     "files":   [
       {
+        "src": "Grendel - Devil's Odyssey 1-18.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Grendel - Devil's Odyssey Issue 1 Page 18 Pencils + Inks",
+        "artist": "Matt Wagner"
+      },
+      {
+        "src": "Grendel - Devil's Odyssey 1-18 - Published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: Grendel - Devil's Odyssey Issue 1 Page 18",
+        "artist": "Matt Wagner"
+      },
+      {
+        "src": "Grendel - Devil's Odyssey 3-9.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Grendel - Devil's Odyssey Issue 3 Page 9 Pencils + Inks",
+        "artist": "Matt Wagner"
+      },
+      {
+        "src": "Grendel - Devil's Odyssey 3-9 - Published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Published: Grendel - Devil's Odyssey Issue 3 Page 9",
+        "artist": "Matt Wagner"
+      },
+      {
+        "src": "Grendel - Devil's Odyssey 3-10-11.jpg",
+        "width": 4,
+        "height": 3,
+        "title": "Grendel - Devil's Odyssey Issue 3 Pages 10-11 Pencils + Inks",
+        "artist": "Matt Wagner"
+      },
+      {
+        "src": "Grendel - Devil's Odyssey 3-10-11 - Published.jpg",
+        "width": 4,
+        "height": 3,
+        "title": "Published: Grendel - Devil's Odyssey Issue 3 Pages 10-11",
+        "artist": "Matt Wagner"
+      },
+      {
         "src": "Grendel - Devil's Odyssey 3-12.jpg",
         "width": 2,
         "height": 3,
@@ -544,7 +586,7 @@
       {
         "src": "Batcave by Garrie Gastonny.jpg",
         "width": 4,
-        "height": 2,
+        "height": 3,
         "title": "Batman Family in Batcave",
         "artist": "Garrie Gastonny"
       },
