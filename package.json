@@ -2,6 +2,7 @@
   "name": "comics-gallery",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "dependencies": {
     "fork-me-on-github": "^1.0.6",
     "rc-switch": "^3.2.2",
