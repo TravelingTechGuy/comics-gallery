@@ -256,6 +256,48 @@
         "artist": "Scott Eaton"
       },
       {
+        "src": "Way of the Rat 001-012 by Jeff Johnson.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Way of the Rat 001-012",
+        "artist": "Jeff Johnson"
+      },
+      {
+        "src": "Way of the Rat 001-012 by Jeff Johnson - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Way of the Rat 001-012 - published",
+        "artist": "Jeff Johnson"
+      },
+      {
+        "src": "Way of the Rat 006-012 by Jeff Johnson.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Way of the Rat 006-012",
+        "artist": "Jeff Johnson"
+      },
+      {
+        "src": "Way of the Rat 006-012 by Jeff Johnson - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Way of the Rat 006-012 - published",
+        "artist": "Jeff Johnson"
+      },
+      {
+        "src": "Way of the Rat 016-006 by Jeff Johnson.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Way of the Rat 016-006",
+        "artist": "Jeff Johnson"
+      },
+      {
+        "src": "Way of the Rat 016-006 by Jeff Johnson - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Way of the Rat 016-006 - published",
+        "artist": "Jeff Johnson"
+      },
+      {
         "src": "New Mutants Vol 3 4-22.jpg",
         "width": 2,
         "height": 3,
@@ -283,7 +325,13 @@
         "title": "Wonder Woman Vol. 2 149 Pg. 16-17 - published",
         "artist": "P: Rick Burchett I: Bob McLeod"
       },
-      
+      {
+        "src": "Aquaman Annual 2-13 Yvel Guichet.jpg",
+        "width": 2,
+        "height": 3,
+        "artist": "Yvel Guichet",
+        "title": "Aquaman Annual #2 pg 13"
+      },
       {
         "src": "Shazam! - Lightning Strikes 002-016.jpg",
         "width": 2,
@@ -381,6 +429,194 @@
         "height": 3,
         "title": "Science is Magic Issue 3 Page 10",
         "artist": "Ben Dunn"
+      }
+    ]
+  },
+  {
+    "name": "Original Art",
+    "folder": "OriginalArt",
+    "files":  [
+      {
+        "src": "Black Panther by David Mack.jpg",
+        "width": 3,
+        "height": 4,
+        "artist": "David Mack",
+        "title": "Black Panther (Wakanda Forever)"
+      },
+      {
+        "src": "Democracy by David Mack.jpg",
+        "width": 3,
+        "height": 4,
+        "artist": "David Mack",
+        "title": "Slide from the clip to Democracy by Neil Gaiman and Amanda Palmer (<a href='https://www.youtube.com/watch?v=LSieFj9lh2o' target='_blank'>link to video</a>)"
+      },
+      {
+        "src": "Ghost Rider by Dike Ruan.jpg",
+        "width": 3,
+        "height": 4,
+        "artist": "Dike Ruan",
+        "title": "Ghost Rider"
+      },
+      {
+        "src": "Rocket Raccoon by Mitch Gerads.jpg",
+        "width": 2,
+        "height": 3,
+        "artist": "Mitch Gerads",
+        "title": "Rocket Raccoon"
+      },
+      {
+        "src": "Batman by Kevin Maguire.jpg",
+        "width": 3,
+        "height": 3,
+        "title": "Batman",
+        "artist": "Kevin Maguire"
+      },
+      {
+        "src": "Kitty Pryde by Todd Nauck.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Kitty Pryde (comission)",
+        "artist": "Todd Nauck"
+      },
+      {
+        "src": "Thank You Note Todd Nauck.jpg",
+        "width": 2,
+        "height": 2,
+        "title": "Thank You Note",
+        "artist": "Todd Nauck"
+      },
+      {
+        "src": "Nova by Den Fernandez.jpg",
+        "width": 3,
+        "height": 4,
+        "artist": "<a herf='https://www.youtube.com/channel/UC0SNvYPM5YZvfmaB08peecQ' target='_blank'>Den Fernandez</a>",
+        "title": "Nova"
+      },
+      {
+        "src": "Batcave by Garrie Gastonny.jpg",
+        "width": 4,
+        "height": 3,
+        "title": "Batman Family in Batcave",
+        "artist": "Garrie Gastonny"
+      },
+      {
+        "src": "Infinity War by Nato.jpg",
+        "width": 4,
+        "height": 3,
+        "title": "Infinity War (recreation?)",
+        "artist": "Nato"
+      },
+      {
+        "src": "Shang-Chi by Bien Flores.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Shang-Chi",
+        "artist": "Bien Flores"
+      },
+      {
+        "src": "Doc Samson by Jose Luis.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Doc Samson",
+        "artist": "P: Jose Luis I: Jeff de Los Santos"
+      },
+      {
+        "src": "Deadpool by Jim Jimenez.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Deadpool",
+        "artist": "Jim Jimenez"
+      },
+      {
+        "src": "Hawkgirl - Gerson Kitamoto.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Hawkgirl",
+        "artist": "Gerson Kitamoto"
+      },
+      {
+        "src": "Gambit - Jason Patterson.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Gambit",
+        "artist": "Jason Patterson"
+      },
+      {
+        "src": "Weapon X - Gerson Borges.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Weapon X (Wolverine)",
+        "artist": "Gerson Borges"
+      },
+      {
+        "src": "Green Lanterns - Gerson Borges.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Green Lanterns (Jon Stewart & Guy Gardner)",
+        "artist": "Gerson Borges"
+      },
+      {
+        "src": "Captain America vs. Iron Man.jpg",
+        "width": 3,
+        "height": 2,
+        "title": "Captain America vs. Iron Man: Civil War",
+        "artist": "Lance de Boyer"
+      },
+      {
+        "src": "Jean Grey by Dalrymple.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Jean Grey",
+        "artist": "Scott Dalrymple"
+      },
+      {
+        "src": "Kitty Pryde by Dalrymple.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Kitty Pryde",
+        "artist": "Scott Dalrymple"
+      },
+      {
+        "src": "Firestar by Dalrymple.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Firestar",
+        "artist": "Scott Dalrymple"
+      },
+      {
+        "src": "Firestar 2 by Dalrymple.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Firestar",
+        "artist": "Scott Dalrymple"
+      },
+      {
+        "src": "Spider-Man print by Chris Spruce.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Spider-Man Print (signed)",
+        "artist": "Chris Sprouce"
+      },
+      {
+        "src": "Batman Family by Greg Woronchak.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Batman Family",
+        "artist": "Greg Woronchak"
+      },
+      {
+        "src": "Deadpool by Jones Alves.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Deadpool",
+        "artist": "Jones Alves"
+      },
+      {
+        "src": "Image founders signed.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Image founders signed",
+        "artist": "McFarlane, Larsen, Silvestri, Valentino, Kirkman, Stephenson"
       }
     ]
   },
@@ -628,158 +864,5 @@
         "artist": "Ken Haeser"
       }
     ] 
-  },
-  {
-    "name": "Original Art",
-    "folder": "OriginalArt",
-    "files":  [
-      {
-        "src": "Batcave by Garrie Gastonny.jpg",
-        "width": 4,
-        "height": 3,
-        "title": "Batman Family in Batcave",
-        "artist": "Garrie Gastonny"
-      },
-      {
-        "src": "Infinity War by Nato.jpg",
-        "width": 4,
-        "height": 3,
-        "title": "Infinity War (recreation?)",
-        "artist": "Nato"
-      },
-      {
-        "src": "Batman by Kevin Maguire.jpg",
-        "width": 3,
-        "height": 3,
-        "title": "Batman",
-        "artist": "Kevin Maguire"
-      },
-      {
-        "src": "Shang-Chi by Bien Flores.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Shang-Chi",
-        "artist": "Bien Flores"
-      },
-      {
-        "src": "Doc Samson by Jose Luis.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Doc Samson",
-        "artist": "P: Jose Luis I: Jeff de Los Santos"
-      },
-      {
-        "src": "Deadpool by Jim Jimenez.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Deadpool",
-        "artist": "Jim Jimenez"
-      },
-      {
-        "src": "Hawkgirl - Gerson Kitamoto.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Hawkgirl",
-        "artist": "Gerson Kitamoto"
-      },
-      {
-        "src": "Gambit - Jason Patterson.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Gambit",
-        "artist": "Jason Patterson"
-      },
-      {
-        "src": "Weapon X - Gerson Borges.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Weapon X (Wolverine)",
-        "artist": "Gerson Borges"
-      },
-      {
-        "src": "Green Lanterns - Gerson Borges.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Green Lanterns (Jon Stewart & Guy Gardner)",
-        "artist": "Gerson Borges"
-      },
-      {
-        "src": "Captain America vs. Iron Man.jpg",
-        "width": 3,
-        "height": 2,
-        "title": "Captain America vs. Iron Man: Civil War",
-        "artist": "Lance de Boyer"
-      },
-      {
-        "src": "Kitty Pryde by Todd Nauck.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Kitty Pryde (comission)",
-        "artist": "Todd Nauck"
-      },
-      {
-        "src": "Thank You Note Todd Nauck.jpg",
-        "width": 2,
-        "height": 2,
-        "title": "Thank You Note",
-        "artist": "Todd Nauck"
-      },
-      {
-        "src": "Jean Grey by Dalrymple.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Jean Grey",
-        "artist": "Scott Dalrymple"
-      },
-      {
-        "src": "Kitty Pryde by Dalrymple.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Kitty Pryde",
-        "artist": "Scott Dalrymple"
-      },
-      {
-        "src": "Firestar by Dalrymple.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Firestar",
-        "artist": "Scott Dalrymple"
-      },
-      {
-        "src": "Firestar 2 by Dalrymple.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Firestar",
-        "artist": "Scott Dalrymple"
-      },
-      {
-        "src": "Spider-Man print by Chris Spruce.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Spider-Man Print (signed)",
-        "artist": "Chris Sprouce"
-      },
-      {
-        "src": "Batman Family by Greg Woronchak.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Batman Family",
-        "artist": "Greg Woronchak"
-      },
-      {
-        "src": "Deadpool by Jones Alves.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Deadpool",
-        "artist": "Jones Alves"
-      },
-      {
-        "src": "Image founders signed.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Image founders signed",
-        "artist": "McFarlane, Larsen, Silvestri, Valentino, Kirkman, Stephenson"
-      }
-    ]
   }
 ]
