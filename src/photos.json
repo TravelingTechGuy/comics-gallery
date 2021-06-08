@@ -109,6 +109,20 @@
         "artist": "Brad Walker"
       },
       {
+        "src": "Grimm Fairy Tales The Dream Eater Saga 1 Cover by Sean Chen.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Grimm Fairy Tales The Dream Eater Saga #1 Cover",
+        "artist": "Sean Chen"
+      },
+      {
+        "src": "Grimm Fairy Tales The Dream Eater Saga 1 Cover by Sean Chen - CGC.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Grimm Fairy Tales The Dream Eater Saga #1 Cover CGC 9.8 Signed",
+        "artist": "Sean Chen"
+      },
+      {
         "src": "Aquaman (2011) 017-09.jpg",
         "width": 2,
         "height": 3,
@@ -559,8 +573,23 @@
         "src": "Nova by Den Fernandez.jpg",
         "width": 3,
         "height": 4,
-        "artist": "<a herf='https://www.youtube.com/channel/UC0SNvYPM5YZvfmaB08peecQ' target='_blank'>Den Fernandez</a>",
+        "artist": "Den Fernandez",
         "title": "Nova"
+      },
+      {
+        "src": "Wolverine by Den Fernandez.jpg",
+        "width": 3,
+        "height": 4,
+        "artist": "Den Fernandez",
+        "title": "Wolverine"
+      },
+      {
+        "src": "wolverine_vid.png",
+        "width": 1,
+        "height": 1,
+        "title": "Painting Wolverine",
+        "video": "https://www.youtube.com/watch?v=BQXcwss-EaM",
+        "artist": "Den Fernandez"
       },
       {
         "src": "Batcave by Garrie Gastonny.jpg",
