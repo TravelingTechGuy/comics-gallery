@@ -738,17 +738,17 @@
         "title": "Rocket Raccoon"
       },
       {
-        "src": "Batman by Kevin Maguire.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Batman",
-        "artist": "Kevin Maguire"
-      },
-      {
         "src": "One Punch! - by Kevin Maguire.jpg",
         "width": 4,
         "height": 3,
         "title": "One Punch!",
+        "artist": "Kevin Maguire"
+      },
+      {
+        "src": "Batman by Kevin Maguire.jpg",
+        "width": 2.5,
+        "height": 3,
+        "title": "Batman",
         "artist": "Kevin Maguire"
       },
       {
@@ -764,6 +764,27 @@
         "height": 2,
         "title": "Thank You Note",
         "artist": "Todd Nauck"
+      },
+      {
+        "src": "MOONWARS - N'DELIA by Bart Sears.jpg",
+        "width": 3,
+        "height": 3,
+        "artist": "Bart Sears",
+        "title": "MoonWars Barbarians - N'DELIA"
+      },
+      {
+        "src": "MOONWARS - THORIS NNAR by Bart Sears.jpg",
+        "width": 3,
+        "height": 3,
+        "artist": "Bart Sears",
+        "title": "MoonWars Barbarians - THORIS NNAR"
+      },
+      {
+        "src": "MOONWARS - CHK'TLL by Bart Sears.jpg",
+        "width": 3,
+        "height": 3,
+        "artist": "Bart Sears",
+        "title": "MoonWars Barbarians - CHK'TLL"
       },
       {
         "src": "Avengers by Nate Stockman.jpg",
