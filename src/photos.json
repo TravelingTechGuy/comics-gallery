@@ -123,7 +123,28 @@
         "artist": "Sean Chen"
       },
       {
-        "src": "Tim Seeley Sheena 8 cover.jpg",
+        "src": "Sheena 6 cover by Tim Seeley.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Sheena #6 Cover - unpublished",
+        "artist": "Tim Seeley"
+      },
+      {
+        "src": "Sheena 7 cover by Tim Seeley.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Sheena #7 Cover - unpublished (but used as cover for Sheena Dark Rising #2)",
+        "artist": "Tim Seeley"
+      },
+      {
+        "src": "Sheena 7 - publsihed.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Sheena Dark Rising #2 cover - published",
+        "artist": "Tim Seeley"
+      },
+      {
+        "src": "Sheena 8 cover by Tim Seeley.jpg",
         "width": 2,
         "height": 3,
         "title": "Sheena #8 Cover - unpublished",
@@ -975,6 +996,20 @@
         "height": 3,
         "title": "Robin from Teen Titans Go!",
         "artist": "Agnes Garbowska"
+      },
+      {
+        "src": "Blue Beetle by Gavin Guidry.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Blue Beetle + bug",
+        "artist": "Gavin Guidry"
+      },
+      {
+        "src": "Spider-man by Gavin Guidry.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Spider-Man choked by Lizard",
+        "artist": "Gavin Guidry"
       },
       {
         "src": "Spider-Man print by Chris Spruce.jpg",
