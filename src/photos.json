@@ -137,6 +137,20 @@
         "artist": "Sean Chen"
       },
       {
+        "src": "Mercy Sparx cover by Tim Seeley.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Mercy Sparx Under New Management",
+        "artist": "Tim Seeley"
+      },
+      {
+        "src": "Mercy Sparx cover by Tim Seeley - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Mercy Sparx Under New Management (published as FCBD)",
+        "artist": "Tim Seeley"
+      },
+      {
         "src": "Sheena 6 cover by Tim Seeley.jpg",
         "width": 2,
         "height": 3,
@@ -1024,6 +1038,13 @@
         "height": 3,
         "title": "Deadpool",
         "artist": "Jim Jimenez"
+      },
+      {
+        "src": "Shark by Tadd Galusha.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Shark Attack (untitled)",
+        "artist": "Tadd Galusha"
       },
       {
         "src": "Hawkgirl - Gerson Kitamoto.jpg",
