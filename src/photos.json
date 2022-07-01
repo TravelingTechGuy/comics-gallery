@@ -935,10 +935,17 @@
       },
       {
         "src": "Batman by Kevin Maguire.jpg",
-        "width": 2.5,
+        "width": 2,
         "height": 3,
         "title": "Batman",
         "artist": "Kevin Maguire"
+      },
+      {
+        "src": "Flash by Mike McKone.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Flash",
+        "artist": "Mike McKone"
       },
       {
         "src": "Kitty Pryde by Todd Nauck.jpg",
