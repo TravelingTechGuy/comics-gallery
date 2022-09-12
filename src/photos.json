@@ -109,6 +109,20 @@
         "artist": "Brad Walker"
       },
       {
+        "src": "Action Comics 848 pg. 15.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Action Comics 848 pg. 15",
+        "artist": "P: Allan Goldman I: Ron Randall"
+      },
+      {
+        "src": "Action Comics 848 pg. 15 - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Action Comics 848 pg. 15 - published",
+        "artist": "P: Allan Goldman I: Ron Randall"
+      },
+      {
         "src": "30 Days of Night - Bloodsucker Tales 08 pg 1.jpg",
         "width": 2,
         "height": 3,
@@ -962,6 +976,13 @@
         "title": "Rocket Raccoon"
       },
       {
+        "src": "Batmankoff by Dave Johnson.jpg",
+        "width": 2,
+        "height": 3,
+        "artist": "Dave Johnson",
+        "title": "Batmankoff"
+      },
+      {
         "src": "One Punch! - by Kevin Maguire.jpg",
         "width": 4,
         "height": 3,
@@ -981,6 +1002,20 @@
         "height": 3,
         "title": "Flash",
         "artist": "Mike McKone"
+      },
+      {
+        "src": "Flash by Ron Randall.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Flash",
+        "artist": "Ron Randall"
+      },
+      {
+        "src": "Rorschach by Bobby Breed.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Rorschach",
+        "artist": "Bobby Breed"
       },
       {
         "src": "Kitty Pryde by Todd Nauck.jpg",
@@ -1212,6 +1247,13 @@
         "width": 2,
         "height": 3,
         "title": "90's Cyclops",
+        "artist": "Phillip Sevy"
+      },
+      {
+        "src": "Nightcrawler by Phillip Sevy.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "90's Nightcrawler",
         "artist": "Phillip Sevy"
       },
       {
