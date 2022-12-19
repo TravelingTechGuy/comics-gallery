@@ -1,16 +1,16 @@
-# Hand-Drawn Comics Gallery
+# Comics Original Art Gallery
+
+A simple React app that I built to feature my OA collection.
 
 ## Running Demo
 
-[Demo of the app showing my collection of hand drawn comic book covers](https://hdcomics.netlify.app)
-
-A simple react app that shows a gallery of comic book covers, and uses Lightbox to focus on each.
+[This is a gallery featuring my OA pieces: published pages, sketches, and blank cover sketches](https://hdcomics.netlify.app)
 
 ## Usage
 
 - Place images in `public/photos` - you may add subfolders
 - Edit `photos.json` file:
-    - The top level will contain the folders. Each flder wil have:
+    - The top level will contain the folders. Each folder will have:
         - `name`: the name shown in the dropdown
         - `folder`: actual folder name - try to keep it one word
         - `files`: an array of files
