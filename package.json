@@ -1,6 +1,6 @@
 {
   "name": "comics-gallery",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "license": "MIT",
   "dependencies": {
@@ -18,8 +18,7 @@
     "start-local": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "deploy": "react-scripts --openssl-legacy-provider build && netlify deploy --prod --dir build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
