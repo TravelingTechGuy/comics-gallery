@@ -30,5 +30,14 @@ A simple React app that I built to feature my OA collection.
 - [React Images](https://github.com/jossmac/react-images) - for the carousel
 - [React Player](https://github.com/cookpete/react-player) - to play Youtube videos
 - [Fork-Me-On-Github](https://github.com/whatthefoo/fork-me-on-github) - for Octocat icon
+- [rc-switch](https://github.com/react-component/switch) - for the dark/light mode switch
+
+## Comment on Peer Dependencies
+
+Due to some of the older components used here incompatibility with newer versions of React, running `npm install` 
+may result in an `ERESOLVE` error, with tons of `peer dependencies` messages.
+
+To avoid that, run `npm install --legacy-peer-deps` when running locally.  
+When using Netlify etc., add an environment variable called `NPM_FLAGS` with the value `--legacy-peer-deps`.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
