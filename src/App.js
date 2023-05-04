@@ -13,13 +13,18 @@ const PHOTOS_FOLDER = '/photos';
 function App() {
   const [isDarkTheme, setIsDarkTheme] = useState(getBrowserTheme());
   const [collectionIndex, setCollectionIndex] = useState(0);
+  const [filter, setFilter] = useState('');
   const [currentImage, setCurrentImage] = useState(0);
   const [viewerIsOpen, setViewerIsOpen] = useState(false);
   const [images, setImages] = useState([]);
   const [video, setVideo] = useState(null);
 
   useEffect(() => {
-    let imgs = photos[collectionIndex].files.map(img => {
+    let files = photos[collectionIndex].files;
+    if(filter) {
+      files = files.filter(file => file.title.toLowerCase().includes(filter.toLowerCase()) || file.artist.toLowerCase().includes(filter.toLowerCase()));
+    }
+    let imgs = files.map(img => {
       const title = `${img.title} by ${img.artist}`;
       return {
         ...img,
@@ -30,7 +35,7 @@ function App() {
       };
     });
     setImages(imgs);
-  }, [collectionIndex]);
+  }, [collectionIndex, filter]);
 
   const openLightbox = useCallback((event, { photo, index }) => {
     setViewerIsOpen(true);
@@ -52,7 +57,7 @@ function App() {
     <div className={`App ${isDarkTheme ? 'dark' : 'light'}Theme`}>
       <ThemeSwitch
         onChange={() => setIsDarkTheme(!isDarkTheme)}
-        defaultChecked={isDarkTheme}
+        defaultChecked={!isDarkTheme}
       />
       <ForkMeOnGithub
         repo="https://github.com/TravelingTechGuy/comics-gallery"
@@ -65,12 +70,27 @@ function App() {
         {photos[collectionIndex].name} Collection
       </header>
       <main className="App-body">
-        <div className="list-container">
-          <select className="select-css" defaultValue={collectionIndex} onChange={e => setCollectionIndex(e.target.value)}>
-          {
-            photos.map((p, i) => <option value={i} key={p.folder}>{p.name}</option>)
-          }
-          </select>
+        <div className="filter">
+          <div >
+            <select
+              className="select-css"
+              defaultValue={collectionIndex}
+              onChange={e => setCollectionIndex(e.target.value)}
+            >
+            {
+              photos.map((p, i) => <option value={i} key={p.folder}>{p.name}</option>)
+            }
+            </select>
+          </div>
+          <div>
+            <input
+              type="search" 
+              placeholder="Filter by artist, character, or book"
+              className="filter-text"
+              value={filter} 
+              onChange={e => setFilter(e.target.value)}
+            />
+          </div>
         </div>
         <Gallery photos={images} margin={8} onClick={openLightbox} />
         <ModalGateway>
@@ -99,7 +119,7 @@ function App() {
         </ModalGateway>
       </main>
       <footer className="App-footer">
-        MyGallery&trade; All rights &copy; {(new Date()).getFullYear()}
+        MyGallery&trade; All rights &copy; Traveling Tech Guy LLC {(new Date()).getFullYear()}
       </footer>
     </div>
   );
