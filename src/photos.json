@@ -543,24 +543,45 @@
         "artist": "Scot Eaton"
       },
       {
-        "src": "Flash Plus pg. 12 by Eduardo Barreto.jpg",
+        "src": "Flash Plus Nightwing pg. 12.jpg",
         "width": 2,
         "height": 3,
-        "title": "Flash Plus pg. 12",
+        "title": "Flash Plus Nightwing pg. 12",
         "artist": "P: Eduardo Barreto, I: Gerry Fernandez"
       },
       {
-        "src": "Flash Plus pg. 14 by Eduardo Barreto.jpg",
+        "src": "Flash Plus Nightwing pg. 12 - published.jpg",
         "width": 2,
         "height": 3,
-        "title": "Flash Plus pg. 14",
+        "title": "Flash Plus Nightwing pg. 12 - published",
         "artist": "P: Eduardo Barreto, I: Gerry Fernandez"
       },
       {
-        "src": "Flash Plus pg. 33 by Eduardo Barreto.jpg",
+        "src": "Flash Plus Nightwing pg. 14.jpg",
         "width": 2,
         "height": 3,
-        "title": "Flash Plus pg. 33",
+        "title": "Flash Plus Nightwing pg. 14",
+        "artist": "P: Eduardo Barreto, I: Gerry Fernandez"
+      },
+      {
+        "src": "Flash Plus Nightwing pg. 14 - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Flash Plus Nightwing pg. 14 - published",
+        "artist": "P: Eduardo Barreto, I: Gerry Fernandez"
+      },
+      {
+        "src": "Flash Plus Nightwing pg. 33.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Flash Plus Nightwing pg. 33",
+        "artist": "P: Eduardo Barreto, I: Gerry Fernandez"
+      },
+      {
+        "src": "Flash Plus Nightwing pg. 33 - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Flash Plus Nightwing pg. 33 - published",
         "artist": "P: Eduardo Barreto, I: Gerry Fernandez"
       },
       {
@@ -1198,6 +1219,13 @@
         "height": 3,
         "title": "Flash",
         "artist": "Ron Randall"
+      },
+      {
+        "src": "Cannonball by Bob McLeod.png",
+        "width": 2,
+        "height": 3,
+        "title": "Cannonball",
+        "artist": "Bob McLeod"
       },
       {
         "src": "Kang the Conqueror by Thony Silas.jpg",
