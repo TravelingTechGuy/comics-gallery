@@ -4,6 +4,13 @@
     "folder": "PublishedArt",
     "files":   [
       {
+        "src": "Blood of the Demon 10 pg 7 by John Byrne.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Blood of the Demon issue 10 pg. 7",
+        "artist": "John Byrne"
+      },
+      {
         "src": "Grendel - Devil's Odyssey 1-18.jpg",
         "width": 2,
         "height": 3,
@@ -123,6 +130,13 @@
         "artist": "Brad Walker"
       },
       {
+        "src": "Conan issue 7 pg 15 by Becky Cloonan.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Conan issue 7 pg. 15",
+        "artist": "Becky Cloonan"
+      },
+      {
         "src": "The Knight & Lady Of Play Pg. 1 by Jonathan Luna.jpg",
         "width": 2,
         "height": 3,
@@ -211,6 +225,20 @@
         "width": 4,
         "height": 3,
         "title": "Teen Titans 29 Pg. 18-19 - published",
+        "artist": "Tyler Kirkham"
+      },
+      {
+        "src": "Fusion 3 Pg. 20.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Marvel/Top Cow Fusion 3 pg. 20",
+        "artist": "Tyler Kirkham"
+      },
+      {
+        "src": "Fusion 3 Pg. 20 - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Marvel/Top Cow Fusion 3 pg. 20 - published",
         "artist": "Tyler Kirkham"
       },
       {
@@ -338,6 +366,20 @@
         "height": 3,
         "title": "Sheena #8 Cover - unpublished",
         "artist": "Tim Seeley"
+      },
+      {
+        "src": "G. I. Joe 40 Pg. 15.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "G. I. Joe 40 Pg. 15",
+        "artist": "P: Tim Seeley I: Cory Hamscher"
+      },
+      {
+        "src": "G. I. Joe 40 Pg. 15 - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "G. I. Joe 40 Pg. 15 - published",
+        "artist": "P: Tim Seeley I: Cory Hamscher"
       },
       {
         "src": "New York Five Issue 4 Cover by Ryan Kelly.jpg",
@@ -984,18 +1026,18 @@
         "artist": "Eric Gapstur"
       },
       {
-        "src": "G. I. Joe 40 Pg. 15.jpg",
+        "src": "Stumptown issue 6 pg. 16 by Matt Southgate.jpg",
         "width": 2,
         "height": 3,
-        "title": "G. I. Joe 40 Pg. 15",
-        "artist": "P: Tim Seeley I: Cory Hamscher"
+        "title": "Stumptown issue 6 pg. 16",
+        "artist": "Matt Southgate"
       },
       {
-        "src": "G. I. Joe 40 Pg. 15 - published.jpg",
+        "src": "Stumptown issue 6 pg. 17 by Matt Southgate.jpg",
         "width": 2,
         "height": 3,
-        "title": "G. I. Joe 40 Pg. 15 - published",
-        "artist": "P: Tim Seeley I: Cory Hamscher"
+        "title": "Stumptown issue 6 pg. 17",
+        "artist": "Matt Southgate"
       },
       {
         "src": "Shots Fired 66.67 pg. 1.jpg",
@@ -1327,6 +1369,20 @@
         "artist": "Nato"
       },
       {
+        "src": "Superman Secret Origin pg 2 by Ace Continuado.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "DC exercise: Superman Secret Origin Pg. 2",
+        "artist": "Ace Continuado"
+      },
+      {
+        "src": "Superman Secret Origin pg 3 by Ace Continuado.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "DC exercise: Superman Secret Origin Pg. 3",
+        "artist": "Ace Continuado"
+      },
+      {
         "src": "Shang-Chi by Bien Flores.jpg",
         "width": 2,
         "height": 3,
@@ -1402,6 +1458,13 @@
         "height": 2,
         "title": "Captain America vs. Iron Man: Civil War",
         "artist": "Lance de Boyer"
+      },
+      {
+        "src": "Hope by the Fillibach brothers.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Hope (signed print)",
+        "artist": "Shaun & Matt Fillibach (The Fillibach Bros.)"
       },
       {
         "src": "Jean Grey by Dalrymple.jpg",
@@ -1488,10 +1551,24 @@
         "artist": "Phillip Sevy"
       },
       {
+        "src": "Samurai Jack by Howard Shum.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Samurai Jack",
+        "artist": "Howard Shum"
+      },
+      {
+        "src": "Supergirl by Howard Shum.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Supergirl",
+        "artist": "Howard Shum"
+      },
+      {
         "src": "Spider-Man print by Chris Spruce.jpg",
         "width": 2,
         "height": 3,
-        "title": "Spider-Man Print (signed)",
+        "title": "Spider-Man (signed print)",
         "artist": "Chris Sprouce"
       },
       {
