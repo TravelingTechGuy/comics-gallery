@@ -1347,13 +1347,6 @@
         "artist": "Thony Silas"
       },
       {
-        "src": "Jessie Custer by Drew Moss.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Jessie Custer (Preacher)",
-        "artist": "Drew Moss"
-      },
-      {
         "src": "Captain Marvel by Tony Fleecs.jpg",
         "width": 2,
         "height": 3,
@@ -1366,6 +1359,13 @@
         "height": 3,
         "title": "Rorschach",
         "artist": "Bobby Breed"
+      },
+      {
+        "src": "Jessie Custer by Drew Moss.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Jessie Custer (Preacher)",
+        "artist": "Drew Moss"
       },
       {
         "src": "Kitty Pryde by Todd Nauck.jpg",
@@ -1410,6 +1410,13 @@
         "artist": "Nate Stockman"
       },
       {
+        "src": "Batcave by Garrie Gastonny.jpg",
+        "width": 4,
+        "height": 3,
+        "title": "Batman Family in Batcave",
+        "artist": "Garrie Gastonny"
+      },
+      {
         "src": "Nova by Den Fernandez.jpg",
         "width": 3,
         "height": 4,
@@ -1432,11 +1439,11 @@
         "artist": "Den Fernandez"
       },
       {
-        "src": "Batcave by Garrie Gastonny.jpg",
-        "width": 4,
+        "src": "Wolverine by Donny Gandakusuma.jpg",
+        "width": 2,
         "height": 3,
-        "title": "Batman Family in Batcave",
-        "artist": "Garrie Gastonny"
+        "title": "Weapon X (Wolverine)",
+        "artist": "Donny Gandakusuma"
       },
       {
         "src": "Infinity War by Nato.jpg",
