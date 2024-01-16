@@ -627,6 +627,20 @@
         "artist": "Bernard Chang"
       },
       {
+        "src": "Battle Hymn 2 pg. 18-19 by Jeremy Haun.jpg",
+        "width": 3,
+        "height": 2,
+        "artist": "Jeremy Haun",
+        "title": "Battle Hymn 2 pg. 18-19"
+      },
+      {
+        "src": "Battle Hymn 2 pg. 18-19 by Jeremy Haun - published.jpg",
+        "width": 3,
+        "height": 2,
+        "artist": "Jeremy Haun",
+        "title": "Battle Hymn 2 pg. 18-19 - published"
+      },
+      {
         "src": "Flash Plus Nightwing pg. 12.jpg",
         "width": 2,
         "height": 3,
@@ -1340,6 +1354,27 @@
         "artist": "Bob McLeod"
       },
       {
+        "src": "Kitty Pryde by Todd Nauck.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Kitty Pryde (comission)",
+        "artist": "Todd Nauck"
+      },
+      {
+        "src": "Thank You Note Todd Nauck.jpg",
+        "width": 2,
+        "height": 2,
+        "title": "Thank You Note",
+        "artist": "Todd Nauck"
+      },
+      {
+        "src": "Batgirl and Batman by Thony Silas.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Batgirl and Batman",
+        "artist": "Thony Silas"
+      },
+      {
         "src": "Kang the Conqueror by Thony Silas.jpg",
         "width": 2,
         "height": 3,
@@ -1354,11 +1389,11 @@
         "title": "Captain Marvel"
       },
       {
-        "src": "Rorschach by Bobby Breed.jpg",
+        "src": "Batman x 2 by Phil Hester and Ande Parks.jpg",
         "width": 2,
         "height": 3,
-        "title": "Rorschach",
-        "artist": "Bobby Breed"
+        "title": "Two Batmen",
+        "artist": "P: Phil Hester I: Ande Parks"
       },
       {
         "src": "Jessie Custer by Drew Moss.jpg",
@@ -1366,20 +1401,6 @@
         "height": 3,
         "title": "Jessie Custer (Preacher)",
         "artist": "Drew Moss"
-      },
-      {
-        "src": "Kitty Pryde by Todd Nauck.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Kitty Pryde (comission)",
-        "artist": "Todd Nauck"
-      },
-      {
-        "src": "Thank You Note Todd Nauck.jpg",
-        "width": 2,
-        "height": 2,
-        "title": "Thank You Note",
-        "artist": "Todd Nauck"
       },
       {
         "src": "MOONWARS - N'DELIA by Bart Sears.jpg",
@@ -1444,6 +1465,13 @@
         "height": 3,
         "title": "Weapon X (Wolverine)",
         "artist": "Donny Gandakusuma"
+      },
+      {
+        "src": "Rorschach by Bobby Breed.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Rorschach",
+        "artist": "Bobby Breed"
       },
       {
         "src": "Infinity War by Nato.jpg",
