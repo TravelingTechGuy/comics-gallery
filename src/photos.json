@@ -326,6 +326,20 @@
         "artist": "Sean Chen"
       },
       {
+        "src": "A Haunted Girl 2 cover by Daniel Govar.jpg",
+        "width": 3,
+        "height": 4,
+        "title": "A Haunted Girl 2",
+        "artist": "Daniel Govar (painter)"
+      },
+      {
+        "src": "A Haunted Girl 2 cover by Daniel Govar - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "A Haunted Girl 2 - published",
+        "artist": "Daniel Govar"
+      },
+      {
         "src": "Mercy Sparx cover by Tim Seeley.jpg",
         "width": 2,
         "height": 3,
@@ -627,18 +641,32 @@
         "artist": "Bernard Chang"
       },
       {
-        "src": "Battle Hymn 2 pg. 18-19 by Jeremy Haun.jpg",
-        "width": 4,
+        "src": "Batman Superman Annual 2 Pg. 15 Tom Derenick.jpg",
+        "width": 2,
         "height": 3,
-        "artist": "Jeremy Haun",
-        "title": "Battle Hymn 2 pg. 18-19"
+        "title": "Batman Superman Annual 2 Pg. 15",
+        "artist": "Tom Derenick"
       },
       {
-        "src": "Battle Hymn 2 pg. 18-19 by Jeremy Haun - published.jpg",
-        "width": 4,
+        "src": "Batman Superman Annual 2 Pg. 15 Tom Derenick - published.jpg",
+        "width": 2,
         "height": 3,
-        "artist": "Jeremy Haun",
-        "title": "Battle Hymn 2 pg. 18-19 - published"
+        "title": "Batman Superman Annual 2 Pg. 15 - published",
+        "artist": "Tom Derenick"
+      },
+      {
+        "src": "Batman Superman Annual 2 Pg. 18 Tom Derenick.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Batman Superman Annual 2 Pg. 18",
+        "artist": "Tom Derenick"
+      },
+      {
+        "src": "Batman Superman Annual 2 Pg. 18 Tom Derenick - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Batman Superman Annual 2 Pg. 18 - published",
+        "artist": "Tom Derenick"
       },
       {
         "src": "Flash Plus Nightwing pg. 12.jpg",
@@ -879,41 +907,6 @@
         "artist": "Juan Ferreyra"
       },
       {
-        "src": "Dave Taylor Nowhere Men 7 pg. 25.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Nowhere Men 7 pg. 25",
-        "artist": "Dave Taylor"
-      },
-      {
-        "src": "Dave Taylor Nowhere Men 7 pg. 25 - published.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Nowhere Men 7 pg. 25 - published",
-        "artist": "Dave Taylor"
-      },
-      {
-        "src": "Dave Taylor Nowhere Men 11 pg. 23.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Nowhere Men 11 pg. 23",
-        "artist": "Dave Taylor"
-      },
-      {
-        "src": "Dave Taylor Nowhere Men 11 pg. 23 - published.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Nowhere Men 11 pg. 23 - published",
-        "artist": "Dave Taylor"
-      },
-      {
-        "src": "Dave Taylor Nowhere Men 12 pg. 3-4.jpg",
-        "width": 3,
-        "height": 2,
-        "title": "Nowhere Men 12 pg. 3-4",
-        "artist": "Dave Taylor"
-      },
-      {
         "src": "Captain America - What Price Glory 004-012.jpg",
         "width": 2,
         "height": 3,
@@ -961,6 +954,20 @@
         "height": 3,
         "title": "Secret Avengers 23 pg. 15 by Gabriel Hardman - published",
         "artist": "Gabriel Hardman"
+      },
+      {
+        "src": "Uncanny Avengers Vol. 3 5 pg. 8 by Carlos Pacheco.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Uncanny Avengers Vol. 3 #5 pg. 8",
+        "artist": "Carlos Pacheco"
+      },
+      {
+        "src": "Uncanny Avengers Vol. 3 5 pg. 8 by Carlos Pacheco - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Uncanny Avengers Vol. 3 #5 pg. 8 - published",
+        "artist": "Carlos Pacheco"
       },
       {
         "src": "Infinity Countdown Daredevil 1 pg. 26 by Chris Sprouse.jpg",
@@ -1017,6 +1024,76 @@
         "height": 3,
         "title": "New Mutants Vol 3 Issue 4 Page 22 - published",
         "artist": "P: Diogenes Neves I: Craig Yeung"
+      },
+      {
+        "src": "New Exiles 6 pg. 16 by Roberto Castro.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "New Exiles 6 pg. 16",
+        "artist": "P: Roberto Castro I: Gary Martin"
+      },
+      {
+        "src": "New Exiles 6 pg. 16 by Roberto Castro - published.png",
+        "width": 2,
+        "height": 3,
+        "title": "New Exiles 6 pg. 16 - published",
+        "artist": "P: Roberto Castro I: Gary Martin"
+      },
+      {
+        "src": "Conan 1 pg. 20 by Barry Crain and Jimmy Palmiotti.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Conan 1 pg. 20",
+        "artist": "P: Barry Crain I: Jimmy Palmiotti"
+      },
+      {
+        "src": "Conan 1 pg. 20 by Barry Crain and Jimmy Palmiotti - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Conan 1 pg. 20 - published",
+        "artist": "P: Barry Crain I: Jimmy Palmiotti"
+      },
+      {
+        "src": "Superman 700 pg. 28 by Dan Jurgens and Norm Rapmund.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Superman 700 pg. 28",
+        "artist": "P: Dan Jurgens I: Norm Rapmund"
+      },
+      {
+        "src": "Superman 700 pg. 28 by Dan Jurgens and Norm Rapmund - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Superman 700 pg. 28 - published",
+        "artist": "P: Dan Jurgens I: Norm Rapmund"
+      },
+      {
+        "src": "The Fury of Firestorm - The Nuclear Men 19 pg 14 by Dan Jurgens.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "The Fury of Firestorm - The Nuclear Men 19 pg 14",
+        "artist": "Dan Jurgens"
+      },
+      {
+        "src": "The Fury of Firestorm - The Nuclear Men 19 pg 14 by Dan Jurgens - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "The Fury of Firestorm - The Nuclear Men 19 pg 14 - published",
+        "artist": "Dan Jurgens"
+      },
+      {
+        "src": "The Fury of Firestorm - The Nuclear Men 19 pg 15 by Dan Jurgens.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "The Fury of Firestorm - The Nuclear Men 19 pg 15",
+        "artist": "Dan Jurgens"
+      },
+      {
+        "src": "The Fury of Firestorm - The Nuclear Men 19 pg 15 by Dan Jurgens - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "The Fury of Firestorm - The Nuclear Men 19 pg 15 - published",
+        "artist": "Dan Jurgens"
       },
       {
         "src": "Wonder Woman Vol. 2 149 Pg. 16-17.jpg",
@@ -1110,6 +1187,55 @@
         "artist": "Eric Gapstur"
       },
       {
+        "src": "Battle Hymn 2 pg. 18-19 by Jeremy Haun.jpg",
+        "width": 4,
+        "height": 3,
+        "artist": "Jeremy Haun",
+        "title": "Battle Hymn 2 pg. 18-19"
+      },
+      {
+        "src": "Battle Hymn 2 pg. 18-19 by Jeremy Haun - published.jpg",
+        "width": 4,
+        "height": 3,
+        "artist": "Jeremy Haun",
+        "title": "Battle Hymn 2 pg. 18-19 - published"
+      },
+      {
+        "src": "Dave Taylor Nowhere Men 7 pg. 25.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Nowhere Men 7 pg. 25",
+        "artist": "Dave Taylor"
+      },
+      {
+        "src": "Dave Taylor Nowhere Men 7 pg. 25 - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Nowhere Men 7 pg. 25 - published",
+        "artist": "Dave Taylor"
+      },
+      {
+        "src": "Dave Taylor Nowhere Men 11 pg. 23.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Nowhere Men 11 pg. 23",
+        "artist": "Dave Taylor"
+      },
+      {
+        "src": "Dave Taylor Nowhere Men 11 pg. 23 - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Nowhere Men 11 pg. 23 - published",
+        "artist": "Dave Taylor"
+      },
+      {
+        "src": "Dave Taylor Nowhere Men 12 pg. 3-4.jpg",
+        "width": 3,
+        "height": 2,
+        "title": "Nowhere Men 12 pg. 3-4",
+        "artist": "Dave Taylor"
+      },
+      {
         "src": "Stumptown issue 6 pg. 16 by Matthew Southworth.jpg",
         "width": 2,
         "height": 3,
@@ -1122,6 +1248,48 @@
         "height": 3,
         "title": "Stumptown issue 6 pg. 17",
         "artist": "Matthew Southworth"
+      },
+      {
+        "src": "Return to Wonderland 2 pg. 4 by Richard Bonk.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Return to Wonderland 2 pg. 4",
+        "artist": "Richard Bonk"
+      },
+      {
+        "src": "Return to Wonderland 2 pg. 4 by Richard Bonk - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Return to Wonderland 2 pg. 4 - published",
+        "artist": "Richard Bonk"
+      },
+      {
+        "src": "Return to Wonderland 2 pg. 5 by Richard Bonk.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Return to Wonderland 2 pg. 5",
+        "artist": "Richard Bonk"
+      },
+      {
+        "src": "Return to Wonderland 2 pg. 5 by Richard Bonk - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Return to Wonderland 2 pg. 5 - published",
+        "artist": "Richard Bonk"
+      },
+      {
+        "src": "Return to Wonderland 2 pg. 6 by Richard Bonk.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Return to Wonderland 2 pg. 6",
+        "artist": "Richard Bonk"
+      },
+      {
+        "src": "Return to Wonderland 2 pg. 6 by Richard Bonk - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Return to Wonderland 2 pg. 6 - published",
+        "artist": "Richard Bonk"
       },
       {
         "src": "Shots Fired 66.67 pg. 1.jpg",
@@ -1347,6 +1515,13 @@
         "artist": "Ron Randall"
       },
       {
+        "src": "Wolverine by Bob McLeod.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Wolverine",
+        "artist": "Bob McLeod"
+      },
+      {
         "src": "Cannonball by Bob McLeod.png",
         "width": 2,
         "height": 3,
@@ -1366,6 +1541,20 @@
         "height": 2,
         "title": "Thank You Note",
         "artist": "Todd Nauck"
+      },
+      {
+        "src": "Batman x 2 by Phil Hester and Ande Parks.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Batman x 2",
+        "artist": "P: Phil Hester I: Ande Parks"
+      },
+      {
+        "src": "Deathstroke by Ben Templesmith.jpg",
+        "width": 3,
+        "height": 4,
+        "artist": "Ben Templesmith",
+        "title": "Deathstroke the Terminator"
       },
       {
         "src": "Batgirl and Batman by Thony Silas.jpg",
@@ -1389,11 +1578,11 @@
         "title": "Captain Marvel"
       },
       {
-        "src": "Batman x 2 by Phil Hester and Ande Parks.jpg",
+        "src": "Huntress by Mark Stegbauer.jpeg",
         "width": 2,
         "height": 3,
-        "title": "Two Batmen",
-        "artist": "P: Phil Hester I: Ande Parks"
+        "artist": "Mark Stegbauer",
+        "title": "Huntress on a Gotham Roof"
       },
       {
         "src": "Jessie Custer by Drew Moss.jpg",
@@ -1401,6 +1590,13 @@
         "height": 3,
         "title": "Jessie Custer (Preacher)",
         "artist": "Drew Moss"
+      },
+      {
+        "src": "SpiderWoman by Veronica Fish.jpg",
+        "width": 2,
+        "height": 3,
+        "artist": "Veronica Fish",
+        "title": "SpiderWoman"
       },
       {
         "src": "MOONWARS - N'DELIA by Bart Sears.jpg",
@@ -1640,13 +1836,6 @@
         "height": 3,
         "title": "Spider-Man choked by Lizard",
         "artist": "Gavin Guidry"
-      },
-      {
-        "src": "Guy Gardener by Tim Shinn.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Guy Gardener",
-        "artist": "Tim Shinn"
       },
       {
         "src": "Cyclops by Phillip Sevy.jpg",
@@ -1950,5 +2139,102 @@
         "artist": "Ken Haeser"
       }
     ] 
+  },
+  {
+    "name": "Sketch Cards",
+    "folder": "SketchCards",
+    "files": [
+      {
+        "src": "Superman by Dan Jurgens.jpg", 
+        "height": 3,
+        "width": 2,
+        "artist": "Dan Jurgens",
+        "title": "Superman"
+      },
+      {
+        "src": "Grendel by Matt Wagner.jpg", 
+        "height": 3,
+        "width": 2,
+        "artist": "Matt Wagner",
+        "title": "Grendel"
+      },
+      {
+        "src": "Spider-Man by Mannix Abrera.jpg",
+        "height": 3,
+        "width": 2,
+        "artist": "Mannix Abrera",
+        "title": "Spider-Man"
+      },
+      {
+        "src": "Spider-Man by Maxi Dall'o.jpg",
+        "height": 3,
+        "width": 2,
+        "artist": "Maxi Dall'o",
+        "title": "Spider-Man"
+      },
+      {
+        "src": "SpiderGwen by Veronica Fish.jpg",
+        "height": 3,
+        "width": 2,
+        "artist": "Veronica Fish",
+        "title": "SpiderGwen"
+      },
+      {
+        "src": "Cyclops by Daniel Govar.jpg",
+        "height": 3,
+        "width": 2,
+        "artist": "Daniel Govar",
+        "title": "Cyclops"
+      },
+      {
+        "src": "Conehead by Fred Hembeck.png",
+        "height": 3,
+        "width": 2,
+        "artist": "Fred Hembeck",
+        "title": "Conehead"
+      },
+      {
+        "src": "Medusa by Tony Moy.jpg",
+        "height": 3,
+        "width": 2,
+        "artist": "Tony Moy",
+        "title": "Medusa"
+      },
+      {
+        "src": "Guy Gardener by Tim Shinn.jpg",
+        "height": 3,
+        "width": 2,
+        "title": "Guy Gardener",
+        "artist": "Tim Shinn"
+      },
+      {
+        "src": "Magneto by Miles Wohl.jpg",
+        "height": 3,
+        "width": 2,
+        "artist": "Miles Wohl",
+        "title": "Magneto"
+      },
+      {
+        "src": "The Thing by Geoff Isherwood.jpg",
+        "height": 3,
+        "width": 2,
+        "artist": "Geoff Isherwood",
+        "title": "The Thing"
+      },
+      {
+        "src": "Flash by Jose Marzan.jpg",
+        "height": 3,
+        "width": 2,
+        "artist": "Jose Marzan",
+        "title": "Flash"
+      },
+      {
+        "src": "Elektra by James Martin.jpg",
+        "height": 3,
+        "width": 2,
+        "artist": "James Martin",
+        "title": "Elektra"
+      }
+    ]
   }
 ]
