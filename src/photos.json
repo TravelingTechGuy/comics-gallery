@@ -1522,6 +1522,13 @@
         "artist": "Bob McLeod"
       },
       {
+        "src": "Cannonball by Bob McLeod.png",
+        "width": 2,
+        "height": 3,
+        "title": "Cannonball",
+        "artist": "Bob McLeod"
+      },
+      {
         "src": "Black Canary by Chris Samnee.jpg",
         "height": 3,
         "width": 2,
@@ -1534,13 +1541,6 @@
         "width": 2,
         "artist": "Chris Samnee",
         "title": "Batman sketch on Black Canary reverse.jpg"
-      },
-      {
-        "src": "Cannonball by Bob McLeod.png",
-        "width": 2,
-        "height": 3,
-        "title": "Cannonball",
-        "artist": "Bob McLeod"
       },
       {
         "src": "Kitty Pryde by Todd Nauck.jpg",
