@@ -207,6 +207,20 @@
         "artist": "Jonathan Luna"
       },
       {
+        "src": "Teen Titans 88 pg. 28 by Nicola Scott.jpg",
+        "height": 3,
+        "width": 2,
+        "title": "Teen Titans 88 pg. 28",
+        "artist": "P: Nicola Scott I: Doug Hazelwood"
+      },
+      {
+        "src": "Teen Titans 88 pg. 28 by Nicola Scott - published.jpg",
+        "height": 3,
+        "width": 2,
+        "title": "Teen Titans 88 pg. 28 - published",
+        "artist": "P: Nicola Scott I: Doug Hazelwood"
+      },
+      {
         "src": "Teen Titans 29 Pg. 12-13.jpg",
         "width": 4,
         "height": 3,
@@ -830,45 +844,59 @@
         "artist": "P: Mike Lilly, I: Dan Davis"
       },
       {
+        "src": "DC Universe Presents - Deadman 2 pg. 13 by Bernard Chang.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "DC Universe Presents - Deadman 2 pg. 13",
+        "artist": "Bernard Chang"
+      },
+      {
+        "src": "DC Universe Presents - Deadman 2 pg. 13 by Bernard Chang - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "DC Universe Presents - Deadman 2 pg. 13 - published",
+        "artist": "Bernard Chang"
+      },
+      {
         "src": "DC Universe Presents 4 pg. 8-9 by Bernard Chang.jpg",
         "width": 3,
         "height": 2,
-        "title": "DC Universe Presents 4 pg. 8-9",
+        "title": "DC Universe Presents - Deadman 4 pg. 8-9",
         "artist": "Bernard Chang"
       },
       {
         "src": "DC Universe Presents 4 pg. 8-9 by Bernard Chang - published.jpg",
         "width": 3,
         "height": 2,
-        "title": "DC Universe Presents 4 pg. 8-9 - published",
+        "title": "DC Universe Presents - Deadman 4 pg. 8-9 - published",
         "artist": "Bernard Chang"
       },
       {
         "src": "DC Universe Presents 4 pg. 8-9 by Bernard Chang - prelim.jpg",
         "width": 3,
         "height": 2,
-        "title": "DC Universe Presents 4 pg. 8-9 - prelim on reverse",
+        "title": "DC Universe Presents - Deadman 4 pg. 8-9 - prelim on reverse",
         "artist": "Bernard Chang"
       },
       {
         "src": "DC Universe Presents 4 pg. 10-11 by Bernard Chang.jpg",
         "width": 3,
         "height": 2,
-        "title": "DC Universe Presents 4 pg. 10-11",
+        "title": "DC Universe Presents - Deadman 4 pg. 10-11",
         "artist": "Bernard Chang"
       },
       {
         "src": "DC Universe Presents 4 pg. 10-11 by Bernard Chang - published.jpg",
         "width": 3,
         "height": 2,
-        "title": "DC Universe Presents 4 pg. 10-11 - published",
+        "title": "DC Universe Presents - Deadman 4 pg. 10-11 - published",
         "artist": "Bernard Chang"
       },
       {
         "src": "DC Universe Presents 4 pg. 10-11 by Bernard Chang - prelim.jpg",
         "width": 3,
         "height": 2,
-        "title": "DC Universe Presents 4 pg. 10-11 - prelim on reverse",
+        "title": "DC Universe Presents - Deadman 4 pg. 10-11 - prelim on reverse",
         "artist": "Bernard Chang"
       },
       {
@@ -1856,6 +1884,13 @@
         "height": 2,
         "title": "Batman",
         "artist": "Ramona Fradon"
+      },
+      {
+        "src": "Wonder Girl by Aaron Lopresti.jpg",
+        "height": 3,
+        "width": 2,
+        "artist": "Aaron Lopresti",
+        "title": "Wonder Girl"
       },
       {
         "src": "Ninja by Oeming.jpg",
