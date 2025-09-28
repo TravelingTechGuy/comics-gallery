@@ -437,7 +437,13 @@
         "artist": "Yvel Guichet",
         "title": "Aquaman Annual #2 pg 13 - published"
       },
-      
+      {
+        "src": "Detective Comics 745 pg. 23.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Detective Comics 745 pg. 23",
+        "artist": "P: Shawn Martinbrough & John Watkiss I: Steve Mitchell"
+      },
       {
         "src": "Detective Comics 745 pg. 23 - published.jpg",
         "width": 2,
@@ -549,6 +555,20 @@
         "height": 3,
         "title": "Batman - Gotham Knights Issue 17 Page 4 prelim on reverse",
         "artist": "Roger Robinson"
+      },
+      {
+        "src": "Nightwing Vol 3 20 Page 18.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Nightwing Vol 3 20 Page 18",
+        "artist": "P: Brett Booth I: Norm Rapmund"
+      },
+      {
+        "src": "Nightwing Vol 3 20 Page 18 - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Nightwing Vol 3 20 Page 18 - published",
+        "artist": "P: Brett Booth I: Norm Rapmund"
       },
       {
         "src": "Batman - Gotham Nights 022-013 by Scott Koblish.jpg",
@@ -1258,6 +1278,34 @@
         "artist": "Sean Chen"
       },
       {
+        "src": "Dead Man Logan 6 pg. 4.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Dead Man Logan 6 pg. 4",
+        "artist": "Mike Henderson"
+      },
+      {
+        "src": "Dead Man Logan 6 pg. 4 - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Dead Man Logan 6 pg. 4 - published",
+        "artist": "Mike Henderson"
+      },
+    {
+        "src": "Dead Man Logan 6 pg. 5.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Dead Man Logan 6 pg. 5",
+        "artist": "Mike Henderson"
+      },
+      {
+        "src": "Dead Man Logan 6 pg. 5 - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Dead Man Logan 6 pg. 5 - published",
+        "artist": "Mike Henderson"
+      },
+      {
         "src": "All New Wolverine 32 Pg. 18.jpg",
         "width": 2,
         "height": 3,
@@ -1466,6 +1514,20 @@
         "height": 3,
         "title": "Conan 1 pg. 20 - published",
         "artist": "P: Barry Crain I: Jimmy Palmiotti"
+      },
+      {
+        "src": "Hedra pg. 38.png",
+        "width": 2,
+        "height": 3,
+        "title": "Hedra pg. 38.png",
+        "artist": "Jesse Lonergan"
+      },
+      {
+        "src": "Hedra pg. 38 - published.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Hedra pg. 38 - published.jpg",
+        "artist": "Jesse Lonergan"
       },
       {
         "src": "Way of the Rat 001-012 by Jeff Johnson.jpg",
@@ -2615,21 +2677,21 @@
         "title": "Chewbacca COA",
         "artist": "Ken Haeser"
       }
-    ] 
+    ]
   },
   {
     "name": "Sketch Cards",
     "folder": "SketchCards",
     "files": [
       {
-        "src": "Superman by Dan Jurgens.jpg", 
+        "src": "Superman by Dan Jurgens.jpg",
         "height": 3,
         "width": 2,
         "artist": "Dan Jurgens",
         "title": "Superman"
       },
       {
-        "src": "Grendel by Matt Wagner.jpg", 
+        "src": "Grendel by Matt Wagner.jpg",
         "height": 3,
         "width": 2,
         "artist": "Matt Wagner",
