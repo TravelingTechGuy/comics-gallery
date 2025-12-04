@@ -2460,6 +2460,42 @@
     "folder": "Covers",
     "files": [
       {
+        "src": "Sam Wilson Tood Nauck.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Sam Wilson as Captain America",
+        "artist": "Todd Nauck"
+      },
+      {
+        "src": "Sam Wilson Video Tood Nauck.png",
+        "width": 3,
+        "height": 2,
+        "title": "Drawing Captain America",
+        "video": "https://www.youtube.com/watch?v=0oTj40TIq2M",
+        "artist": "Todd Nauck"
+      },
+      {
+        "src": "Thank You Note Todd Nauck.jpg",
+        "width": 2,
+        "height": 2,
+        "title": "Thank You Note",
+        "artist": "Todd Nauck"
+      },
+      {
+        "src": "Captain America Michael Moonshaw.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Captain America",
+        "artist": "Michael Moonshaw"
+      },
+      {
+        "src": "Green Arrow by Juan Ferreyra.jpg",
+        "width": 2,
+        "height": 3,
+        "title": "Green Arrow",
+        "artist": "Juan Ferreyra"
+      },
+      {
         "src": "Spider-Man Jack Quinncy.jpg",
         "width": 2,
         "height": 3,
@@ -2493,35 +2529,6 @@
         "height": 3,
         "title": "Cyclops",
         "artist": "Ken Haeser"
-      },
-      {
-        "src": "Sam Wilson Tood Nauck.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Sam Wilson as Captain America",
-        "artist": "Todd Nauck"
-      },
-      {
-        "src": "Sam Wilson Video Tood Nauck.png",
-        "width": 3,
-        "height": 2,
-        "title": "Drawing Captain America",
-        "video": "https://www.youtube.com/watch?v=0oTj40TIq2M",
-        "artist": "Todd Nauck"
-      },
-      {
-        "src": "Thank You Note Todd Nauck.jpg",
-        "width": 2,
-        "height": 2,
-        "title": "Thank You Note",
-        "artist": "Todd Nauck"
-      },
-      {
-        "src": "Captain America Michael Moonshaw.jpg",
-        "width": 2,
-        "height": 3,
-        "title": "Captain America",
-        "artist": "Michael Moonshaw"
       },
       {
         "src": "Captain America Gary Parkin.jpg",
